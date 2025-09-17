@@ -37,7 +37,7 @@
 # ' | pbcopy
 
 ---
-name: luna_pinyin.emoji.cldr
+name: emoji.cldr
 version: "2025.04.13"
 sort: by_weight
 use_preset_vocabulary: true

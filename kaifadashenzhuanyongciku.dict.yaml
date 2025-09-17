@@ -5,7 +5,7 @@
 # make download-kaifadashenzhuanyongciku
 
 ---
-name: luna_pinyin.kaifadashenzhuanyongciku
+name: kaifadashenzhuanyongciku
 version: "2020.02.25"
 sort: by_weight
 use_preset_vocabulary: false

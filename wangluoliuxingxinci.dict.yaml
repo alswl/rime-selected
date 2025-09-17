@@ -5,7 +5,7 @@
 # make download-wangluoliuxingxinci
 
 ---
-name: luna_pinyin.wangluoliuxingxinci
+name: wangluoliuxingxinci
 version: "2025.04.13"
 sort: by_weight
 use_preset_vocabulary: false

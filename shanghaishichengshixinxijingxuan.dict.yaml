@@ -3,7 +3,7 @@
 # Source: https://pinyin.sogou.com/dict/detail/index/19430
 
 ---
-name: luna_pinyin.shanghaishichengshixinxijingxuan
+name: shanghaishichengshixinxijingxuan
 version: "2013.07.18"
 sort: by_weight
 use_preset_vocabulary: false
