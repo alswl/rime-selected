@@ -3,7 +3,7 @@
 # Source: https://pinyin.sogou.com/dict/detail/index/22413
 
 ---
-name: shanghaihuadaquan
+name: selected.shanghaihuadaquan
 version: "2017.07.26"
 sort: by_weight
 use_preset_vocabulary: false

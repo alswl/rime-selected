@@ -3,7 +3,7 @@
 # 搜狗颜文字 http://pinyin.sogou.com/dict/ywz/
 # no comment
 ---
-name: kaomoji
+name: selected.kaomoji
 version: "1.0"
 sort: origin
 ...

@@ -4,26 +4,26 @@ Rime 精选词库，本仓库从 [alswl/Rime](https://github.com/alswl/Rime) 剥
 
 - `essay.txt` Rime 原版 essay 中词频高于 700 的词汇和单字（推荐，68k)
   - `mv essay.txt essay.origin.txt; cat essay.origin.txt | awk '{if($2>700){print $0}}' > essay.txt`
-- `xiandaihanyuchangyongcibiao.dict.yaml`：教育部发布的现代汉语常用词表（教育部，强烈推荐，51k）
-- `chengyusuyu.dict.yaml` 成语俗语（搜狗，40k）
+- `selected.xiandaihanyuchangyongcibiao.dict.yaml`：教育部发布的现代汉语常用词表（教育部，强烈推荐，51k）
+- `selected.chengyusuyu.dict.yaml` 成语俗语（搜狗，40k）
    - https://pinyin.sogou.com/dict/detail/index/15097
-- `sijixingzhenquhuadimingciku.dict.yaml`: 四级行政区划地名词库（搜狗）
+- `selected.sijixingzhenquhuadimingciku.dict.yaml`: 四级行政区划地名词库（搜狗）
    - https://pinyin.sogou.com/dict/detail/index/482
-- `jisuanjicihuidaquan.dict.yaml`：计算机词汇大全（搜狗）
+- `selected.jisuanjicihuidaquan.dict.yaml`：计算机词汇大全（搜狗）
    - https://pinyin.sogou.com/dict/detail/index/15117
-- `wangluoliuxingxinci.dict.yaml`: 网络流行新词（搜狗，15k，manual updated）
+- `selected.wangluoliuxingxinci.dict.yaml`: 网络流行新词（搜狗，15k，manual updated）
    - https://pinyin.sogou.com/dict/detail/index/4
-- `shanghaishichengshixinxijingxuan.dict.yaml` 上海市城市信息精选（搜狗）
+- `selected.shanghaishichengshixinxijingxuan.dict.yaml` 上海市城市信息精选（搜狗）
    - https://pinyin.sogou.com/dict/detail/index/19430
-- `shanghaihuadaquan.dict.yaml` 上海话大全（搜狗）
+- `selected.shanghaihuadaquan.dict.yaml` 上海话大全（搜狗）
    - https://pinyin.sogou.com/dict/detail/index/22413
-- `mingxing.dict.yaml` 明星（搜狗）
+- `selected.mingxing.dict.yaml` 明星（搜狗）
    - https://pinyin.sogou.com/dict/detail/index/15209
-- `zhongguolishicihuidaquan.dict.yaml` 中国历史词汇大全（搜狗）
+- `selected.zhongguolishicihuidaquan.dict.yaml` 中国历史词汇大全（搜狗）
    - https://pinyin.sogou.com/dict/detail/index/15130
-- `kaifadashenzhuanyongciku.dict.yaml` 开发大神专用词库（搜狗，0.3k，manual updated）
+- `selected.kaifadashenzhuanyongciku.dict.yaml` 开发大神专用词库（搜狗，0.3k，manual updated）
    - https://pinyin.sogou.com/dict/detail/index/75228
-- `emoji.cldr.dict.yaml`：Emoji parsed from [jolicode/emoji-search: Emoji synonyms to build your own emoji-capable search engine (elasticsearch, solr)](https://github.com/jolicode/emoji-search)（强烈推荐 manual updated）
+- `selected.emoji.cldr.dict.yaml`：Emoji parsed from [jolicode/emoji-search: Emoji synonyms to build your own emoji-capable search engine (elasticsearch, solr)](https://github.com/jolicode/emoji-search)（强烈推荐 manual updated）
   - include emoji 7.0, eg. 🏎️ (sai che)
   - include emoji 8.0, eg. 🦄️ (du jiao shou)
   - include emoji 9.0, eg. 🤡 (xiao chou)
@@ -33,9 +33,9 @@ Rime 精选词库，本仓库从 [alswl/Rime](https://github.com/alswl/Rime) 剥
   - include emoji 13.0, eg. 🥲 (yan lei) 🐻‍❄ (bei ji xiong)
   - include emoji 14.0, eg. 🪫 (dian liang bu zu)
   - include emoji 15.0, eg. 🪼 (shui mu)
-- `emoji.apple.dict.yaml`：Apple iOS 10 Emoji
-- `emoji.scomper.dict.yaml`：Scomper 维护 Emoji（包含 Unicode 9.0）
-- `kaomoji.dict.yaml`：搜狗颜文字
+- `selected.emoji.apple.dict.yaml`：Apple iOS 10 Emoji
+- `selected.emoji.scomper.dict.yaml`：Scomper 维护 Emoji（包含 Unicode 9.0）
+- `selected.kaomoji.dict.yaml`：搜狗颜文字
 
 
 ## 如何使用
@@ -59,5 +59,5 @@ sort: by_weight
 use_preset_vocabulary: true
 import_tables:
     - luna_pinyin.poetry
-    - xiandaihanyuchangyongcibiao # <- 加入你需要的词库名,比如这条
+    - selected.xiandaihanyuchangyongcibiao # <- 加入你需要的词库名,比如这条
 ```

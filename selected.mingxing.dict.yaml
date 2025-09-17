@@ -3,7 +3,7 @@
 # Source: https://pinyin.sogou.com/dict/detail/index/15209
 
 ---
-name: mingxing
+name: selected.mingxing
 version: "2022-01-29"
 sort: by_weight
 use_preset_vocabulary: false

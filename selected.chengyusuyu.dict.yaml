@@ -3,7 +3,7 @@
 # Source: https://pinyin.sogou.com/dict/detail/index/15097
 
 ---
-name: chengyusuyu
+name: selected.chengyusuyu
 version: "2017.03.30"
 sort: by_weight
 use_preset_vocabulary: false

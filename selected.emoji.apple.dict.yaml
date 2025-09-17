@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: emoji.apple
+name: selected.emoji.apple
 version: "2016.12.28"
 sort: by_weight
 use_preset_vocabulary: true

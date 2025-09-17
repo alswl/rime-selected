@@ -10,7 +10,7 @@
 # no comment
 
 ---
-name: emoji
+name: selected.emoji
 version: "2016.6.15"
 sort: by_weight
 use_preset_vocabulary: false
