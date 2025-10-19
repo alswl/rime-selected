@@ -5,6 +5,8 @@ Rime 精选词库，本仓库从 [alswl/Rime](https://github.com/alswl/Rime) 剥
 - `essay.txt` Rime 原版 essay 中词频高于 700 的词汇和单字（推荐，68k)
   - `mv essay.txt essay.origin.txt; cat essay.origin.txt | awk '{if($2>700){print $0}}' > essay.txt`
 - `selected.xiandaihanyuchangyongcibiao.dict.yaml`：教育部发布的现代汉语常用词表（教育部，强烈推荐，51k）
+- `selected.luna_pinyin.dict.yaml`：从 luna_pinyin 提取的单字词库，仅包含现代汉语常用词表中出现的汉字（推荐，3.5k单字）
+  - 通过 `hack/gen-selected-luna-pinyin-dict.sh` 生成
 - `selected.chengyusuyu.dict.yaml` 成语俗语（搜狗，40k）
    - https://pinyin.sogou.com/dict/detail/index/15097
 - `selected.sijixingzhenquhuadimingciku.dict.yaml`: 四级行政区划地名词库（搜狗）

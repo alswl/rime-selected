@@ -1,0 +1,6262 @@
+
+---
+name: selected.luna_pinyin
+version: "2025.10.19"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+一	yi
+丁	ding	99.93%
+丁	zheng	0.07%
+七	qi
+万	mo	0.02%
+万	wan	99.98%
+丈	zhang
+三	sa	0%
+三	san	100%
+上	shang
+下	xia
+不	bu	100%
+不	fou	0%
+不	fu	0%
+与	yu
+丐	gai
+丑	chou
+专	zhuan
+且	ju	0%
+且	qie	100%
+且	qu	0%
+世	shi
+丘	qiu
+丙	bing
+业	qiu
+业	ye	0%
+丛	cong
+东	dong
+丝	si
+丞	cheng
+丢	diu
+两	liang
+严	yan
+丧	sang
+个	ge
+丫	ya
+中	zhong
+丰	feng
+串	chuan
+临	lin
+丸	wan
+丹	dan
+为	wei
+主	zhu
+丽	li
+举	ju
+乃	ai	0%
+乃	nai	100%
+久	jiu
+么	ma	0.04%
+么	me	1%
+么	yao	98.93%
+义	cha	99%
+义	yi	1%
+之	zhi
+乌	wu
+乍	zha
+乎	hu
+乏	fa
+乐	le	95%
+乐	yue	5%
+乒	ping
+乓	pang
+乔	jiao	0%
+乔	qiao	100%
+乖	guai
+乘	cheng	99.46%
+乘	sheng	0.54%
+乙	yi	100%
+乙	zhe	0%
+乜	mie	96.35%
+乜	nie	3.65%
+九	jiu
+乞	qi
+也	ye
+习	xi
+乡	xiang	0%
+乡	yuan
+书	shu
+买	mai
+乱	lan	0%
+乱	luan	100%
+乳	ru
+乾	gan	21.58%
+乾	qian	78.42%
+了	le	98.90%
+了	liao	1.10%
+予	yu
+争	zheng
+事	shi
+二	er
+亍	chu	100%
+亍	yu	0%
+于	xu	0%
+于	yu	100%
+亏	kui	0%
+亏	xu
+亏	yu
+云	yun
+互	hu
+五	wu
+井	jing
+亘	gen
+亘	geng
+亘	huan
+亘	xuan
+亚	ya
+些	suo	0%
+些	xie	100%
+亟	ji	95.11%
+亟	qi	4.89%
+亡	wang	99.46%
+亡	wu	0.54%
+亢	gang	0%
+亢	kang	100%
+交	jiao
+亥	hai
+亦	yi
+产	chan
+亨	heng	100%
+亨	peng	0%
+亩	mu
+享	xiang
+京	jing	100%
+京	yuan	0%
+亭	ting
+亮	liang
+亲	qin	0%
+亲	qing	0%
+亲	xin	10%
+亲	zhen	90%
+亵	xie
+人	ren
+亿	yi
+什	she	0%
+什	shen	84.20%
+什	shi	15.80%
+仁	ren
+仃	ding
+仄	ze
+仅	fu	100%
+仅	jin	0%
+仆	fu
+仆	pu
+仇	chou	83.84%
+仇	qiu	16.16%
+今	jin
+介	ga	0%
+介	jie	100%
+仍	reng
+从	cong	100%
+从	zong	0%
+仑	lun
+仓	cang
+仔	zai	55.40%
+仔	zi	44.60%
+仕	shi
+他	ta	100%
+他	tuo	0%
+仗	zhang
+付	fu
+仙	xian
+仞	ren
+仟	qian
+仡	ge
+仡	qi
+仡	yi
+代	dai
+令	ling
+以	yi
+仨	sa	100%
+仨	san	0%
+仪	yi
+仫	mu
+们	men
+仰	yang
+仲	zhong
+件	jian
+价	jia	0.02%
+价	jie	99.98%
+任	ren
+份	bin	0%
+份	fen	100%
+仿	fang
+企	qi
+伉	kang
+伊	yi
+伍	wu
+伎	ji
+伏	fu
+伐	fa
+休	xiu	100%
+休	xu	0%
+众	zhong
+优	you
+伙	huo
+会	gui	0%
+会	hui	99.98%
+会	kuai	0.02%
+伞	san
+伟	wei
+传	chuan	97.93%
+传	zhuan	2.07%
+伢	ya
+伤	shang
+伥	chang
+伦	lun
+伪	wei
+伫	zhu
+伯	ba	0.02%
+伯	bai	9%
+伯	bo	91.98%
+估	gu
+伴	ban
+伶	ling
+伸	shen
+伺	ci	15.38%
+伺	si	84.62%
+似	shi	15%
+似	si	85%
+伽	ga	80%
+伽	jia	10%
+伽	qie	10%
+佃	dian	92.31%
+佃	tian	7.69%
+但	dan
+位	wei
+低	di
+住	zhu
+佐	zuo
+佑	you
+体	ben
+体	ti
+何	he
+余	tu	0%
+余	xu	0%
+余	yu	100%
+佚	yi
+佛	bi	0%
+佛	fo	97.74%
+佛	fu	2.26%
+作	zuo
+佝	gou
+佝	ju
+佝	kou
+佞	ning
+佟	tong
+你	ni
+佣	yong
+佤	wa
+佩	pei
+佬	lao	100%
+佬	liao	0%
+佯	yang
+佰	bai	100%
+佰	bo	0%
+佰	mo	0%
+佳	jia
+佶	ji
+佻	tiao
+佼	jiao
+使	shi
+侃	kan
+侄	zhi
+侈	chi
+侉	kua
+例	li
+侍	shi
+侏	zhu
+侗	dong	59.46%
+侗	tong	40.54%
+供	gong
+依	yi
+侠	jia	0%
+侠	xia	100%
+侣	lv
+侥	jiao	56.90%
+侦	zhen
+侧	ce	99.69%
+侧	zhai	0.18%
+侨	qiao
+侩	kuai
+侮	wu
+侯	hou
+侵	qin
+便	bian	96.98%
+便	pian	3.02%
+促	cu
+俄	e
+俊	jun	100%
+俊	zun	0%
+俎	zu
+俏	qiao
+俐	li
+俑	yong
+俗	su
+俘	fu
+俚	li
+保	bao
+信	shen	0%
+信	xin	100%
+俨	yan
+俩	lia	90.53%
+俩	liang	9.46%
+俪	li
+俭	jian
+修	xiu
+俯	fu
+俱	ju
+俳	pai
+俸	feng
+俺	an	100%
+俺	yan	0%
+倌	guan
+倍	bei
+倏	shu
+倒	dao
+倔	jue
+倘	tang
+候	hou
+倚	yi
+倜	ti
+倜	zhou
+借	jie
+倡	chang
+倥	kong
+倦	juan
+倨	ju
+倩	qian
+倪	ni
+倭	wei	0%
+倭	wo	100%
+债	zhai
+值	zhi
+倾	qing
+偃	yan
+假	jia
+偈	ji	77.78%
+偈	jie	22.22%
+偈	xie	0%
+偌	nuo
+偌	ruo
+偎	wei
+偏	pian
+偕	jie	0%
+偕	xie	100%
+做	zuo
+停	ting
+健	jian
+偬	zong
+偶	ou
+偷	tou
+偻	lou	63.64%
+偻	lv	36.36%
+偿	chang
+傀	gui
+傀	kui
+傅	fu
+傈	li
+傍	bang	100%
+傍	pang	0%
+傣	dai
+傥	tang
+傧	bin
+储	chu
+催	cui
+傲	ao
+傻	sha
+像	xiang
+僚	liao
+僧	seng	100%
+僧	zeng	0%
+僭	jian
+僭	qian
+僳	su
+僵	jiang
+僻	bei	0%
+僻	pi	100%
+儆	jing
+儒	ru
+儡	lei
+儿	er	0%
+儿	ren	100%
+兀	wu
+允	yun
+元	yuan
+兄	xiong
+充	chong
+兆	zhao
+先	xian
+光	guang
+克	ke
+免	mian	100%
+免	wen	0%
+兑	dui	100%
+兑	yue	0%
+兔	tu
+党	dang
+兜	dou
+兢	jing
+入	ri	0%
+入	ru	100%
+全	quan
+八	ba
+公	gong
+六	liu	99.90%
+六	lu	0.10%
+兰	lan
+共	gong
+关	guan	0%
+关	xiao
+兴	xing
+兵	bing
+其	ji	0.05%
+其	qi	99.95%
+具	ju
+典	dian
+兹	zi	93.26%
+养	yang
+兼	jian
+兽	shou
+冀	ji
+内	na	0%
+内	nei	100%
+冈	gang	0%
+冈	wang
+冉	ran
+册	ce	100%
+册	chai	0%
+再	zai
+冒	mao	99.79%
+冒	mo	0.21%
+冕	mian
+冗	rong
+写	xie
+军	jun
+农	nong
+冠	guan
+冢	zhong
+冤	yuan
+冥	ming
+冬	dong
+冯	feng	100%
+冯	ping	0%
+冰	bing	100%
+冰	ning	0%
+冲	chong
+决	jue
+况	kuang
+冶	ye
+冷	leng
+冻	dong
+冽	lie
+净	jing
+凄	qi
+准	zhun
+凇	song
+凉	liang
+凋	diao
+凌	ling
+减	jian
+凑	cou
+凛	lin
+凝	ning
+几	ji
+凡	fan
+凤	feng
+凫	fu
+凭	ping
+凯	kai
+凰	huang
+凳	deng
+凶	xiong
+凸	die	0%
+凸	gu	1%
+凸	tu	99%
+凹	ao	90%
+凹	wa	10%
+凹	yao	0%
+出	chu
+击	ji
+函	han
+凿	zao	89.37%
+凿	zuo	10.63%
+刀	dao
+刁	diao
+刃	ren
+分	fen
+切	qie
+刊	kan
+刍	chu
+刎	wen
+刑	xing
+划	hua
+列	lie
+刘	liu
+则	ze
+刚	gang
+创	chuang
+初	chu
+删	shan
+判	pan
+刨	bao	4.64%
+刨	pao	95.36%
+利	li
+别	bie
+刮	gua	100%
+刮	ka	0%
+到	dao
+制	zhi
+刷	shua
+券	quan
+刹	cha	7.58%
+刹	sha	92.42%
+刺	ci
+刻	ke
+刽	chuang
+刽	gui
+剁	duo
+剂	ji
+剃	ti
+削	xiao	72.30%
+削	xue	27.70%
+前	qian
+剐	gua
+剑	jian
+剔	ti
+剖	pao	100%
+剖	po	0%
+剖	pou	100%
+剜	wan
+剥	bao	2.33%
+剥	bo	97.67%
+剧	ji	0%
+剧	ju	100%
+剩	sheng
+剪	jian
+副	fu	100%
+副	pi	0%
+割	ge
+剽	piao
+剿	chao	6.56%
+剿	jiao	93.44%
+劁	jiao
+劁	qiao
+劈	pi
+劐	hua
+劐	huo
+力	li
+劝	quan
+办	ban
+功	gong
+加	jia
+务	wu
+劣	lie
+动	dong
+助	zhu
+努	nu
+劫	jie
+劬	qu
+劭	shao
+励	li
+劲	jin	78.80%
+劲	jing	21.20%
+劳	lao
+劾	hai
+劾	he
+势	shi
+勃	bo
+勇	yong
+勉	mian
+勋	xun
+勒	le	96.20%
+勒	lei	3.80%
+勘	kan
+募	mu
+勤	qin
+勺	shao
+勺	shuo
+勾	gou
+勿	wu
+匀	yun
+包	bao
+匆	cong
+匈	xiong
+匍	pu
+匐	fu
+匕	bi
+化	hua
+北	bei	100%
+北	bo	0%
+匙	chi	22.84%
+匙	shi	77.16%
+匝	za
+匠	jiang
+匡	kuang
+匣	he	0%
+匣	xia	100%
+匪	fei
+匮	gui	1%
+匮	kui	99%
+匹	pi
+区	gou	0%
+区	ou	0.09%
+区	qu	99.91%
+医	yi
+匾	bian	100%
+匾	pian	0%
+匿	ni
+十	shi
+千	qian
+卅	sa
+升	sheng
+午	huo	0%
+午	wu	100%
+卉	ben	0%
+卉	hui	100%
+半	ban
+华	hua
+协	xie
+卑	bei
+卒	cu	1.88%
+卒	zu	98.12%
+卓	zhuo
+单	chan	0.10%
+单	dan	99.52%
+单	shan	0.38%
+卖	mai
+南	na	0%
+南	nan	100%
+博	bo
+卜	bo	0%
+卜	bu	100%
+占	zhan
+卡	ka	95%
+卡	qia	5%
+卢	lu
+卤	lu	100%
+卤	xi	0%
+卦	gua
+卧	wo
+卫	wei
+卯	mao
+印	yin
+危	wei
+即	ji
+却	que
+卵	lan	0%
+卵	luan	100%
+卵	luo	0%
+卵	ruan	0%
+卷	juan	100%
+卷	quan	0%
+卸	xie	100%
+卸	yu	0%
+卿	qing
+厂	an	0.05%
+厂	chang	0.05%
+厂	han	99.95%
+厂	yan	0.05%
+厄	e
+厅	ting
+历	li
+厉	lai	0%
+厉	li	100%
+压	ya
+厌	yan
+厕	ce
+厘	chan	0%
+厘	li	100%
+厚	hou
+原	yuan
+厢	xiang
+厥	jue
+厦	sha	41.78%
+厦	xia	58.22%
+厨	chu
+厩	ji
+厩	jiu
+厮	si
+去	qu
+县	xian	99.88%
+叁	can	0%
+叁	cen	0%
+叁	san	100%
+叁	shen	0%
+参	can	90.45%
+参	cen	0.01%
+参	san	0.01%
+参	shen	8.49%
+又	you
+叉	cha
+及	ji
+友	you
+双	shuang
+反	fan
+发	fa
+叔	shu
+取	qu
+受	shou
+变	bian
+叙	xu
+叛	pan
+叟	sou
+叠	da	1%
+叠	die	99%
+口	kou
+古	gu
+句	gou	0%
+句	ju	100%
+另	ling
+叨	dao	98.85%
+叨	tao	1.15%
+叩	kou
+只	zhi
+叫	jiao
+召	shao	1.96%
+召	zhao	98.04%
+叭	ba
+叮	ding
+可	ke
+台	si	1%
+台	tai	60%
+台	yi	39%
+叱	chi
+史	shi
+右	you
+叵	ju	0%
+叵	po	100%
+叵	pou	0%
+叶	xie	100%
+叶	ye	0%
+号	hao
+司	si
+叹	tan
+叹	you
+叼	diao
+叽	ji	100%
+叽	jiao	0%
+吁	a	5%
+吁	xu	90.45%
+吁	yu	4.55%
+吃	chi
+吃	ji
+各	ge
+吆	yao
+合	ge	0.02%
+合	he	99.98%
+吉	ji
+吊	diao
+同	tong
+名	ming
+后	hou
+吏	li
+吐	tu
+向	xiang
+吒	chi
+吒	zha
+吓	he	0.22%
+吓	xia	99.78%
+吕	lv
+吗	ma
+君	jun
+吝	lin
+吞	tun
+吟	yin
+吠	fei
+吣	qin
+否	fou	100%
+否	pi	0%
+吧	ba
+吨	dun	50%
+吨	tun	50%
+吩	fen
+含	han	100%
+含	hen	0%
+听	ting	1%
+听	yi	1%
+听	yin	98%
+吭	hang	27.07%
+吭	kang	0%
+吭	keng	72.93%
+吮	shun
+启	qi
+吱	zhi	70.91%
+吱	zi	29.09%
+吴	wu
+吵	chao
+吸	xi
+吹	chui
+吻	wen
+吼	hou	100%
+吼	kong	0%
+吾	wu	100%
+吾	yu	0%
+呀	xia	0%
+呀	ya	100%
+呃	e
+呆	ai	0.02%
+呆	dai	99.98%
+呈	cheng
+告	gao	100%
+告	gu	0%
+呐	na	90.82%
+呐	ne	9.18%
+呓	yi
+呕	ou
+呖	li
+呗	bai	3.71%
+呗	bei	96.29%
+员	yuan	100%
+呛	qiang
+呜	wu
+呢	ne	98.97%
+呢	ni	1.03%
+呦	you
+周	zhou
+呱	gu	5%
+呱	gua	100%
+呱	wa	0%
+味	wei
+呵	a	8.96%
+呵	he	91.04%
+呵	o	0%
+呸	pei
+呻	shen
+呼	hu
+命	ming
+咀	ju	94%
+咀	zui	6%
+咂	za
+咄	duo
+咆	pao
+咋	za	98.76%
+咋	ze	0.15%
+咋	zha	1.09%
+和	han	0%
+和	he	99.97%
+和	hu	0%
+和	huo	0.02%
+咎	gao	0%
+咎	jiu	100%
+咏	yong
+咐	fu
+咒	zhou
+咔	ka	100%
+咔	long	0%
+咕	gu
+咖	ga	50%
+咖	jia	35.09%
+咖	ka	14.91%
+咙	long
+咚	dong
+咛	ning
+咝	si
+咣	gong
+咣	guang
+咤	chi
+咤	zha
+咦	yi
+咧	lie
+咨	zi
+咩	mie
+咪	mi
+咫	chi
+咫	zhi
+咬	jiao	0%
+咬	yao	100%
+咯	ge	2.04%
+咯	ka	0%
+咯	lo	94.72%
+咯	luo	3.22%
+咱	za	1%
+咱	zan	99%
+咳	hai	78.98%
+咳	ka	0%
+咳	kai	0%
+咳	ke	21.02%
+咸	xian
+咻	xiu
+咻	xu
+咽	yan	88.56%
+咽	ye	11.44%
+咿	yi
+哀	ai
+品	pin
+哂	shen
+哄	hong
+哆	che
+哆	duo
+哇	wa
+哈	ha	100%
+哈	ka	0%
+哉	zai
+响	xiang
+哎	ai
+哏	gen
+哏	hen
+哐	kuang
+哑	ya
+哔	bi
+哗	hua
+哝	nong
+哞	mou
+哟	yo
+哥	ge
+哦	e	25.51%
+哦	o	74.49%
+哧	chi
+哨	shao
+哩	li
+哪	na	98.99%
+哪	ne	0.88%
+哪	nei	0.13%
+哭	kao	0%
+哭	ku	100%
+哮	xiao
+哲	zhe
+哺	bu
+哺	fu
+哺	pu
+哼	heng
+哽	geng
+唁	yan
+唆	suo
+唇	chun	10%
+唇	zhen	90%
+唉	ai
+唏	xi
+唐	tang
+唠	lao
+唢	suo
+唤	huan
+唧	ji
+唬	hu
+售	shou
+唯	wei
+唱	chang
+唳	lei
+唳	li
+唳	lie
+唷	yo
+唾	tu
+唾	tuo
+啁	chao
+啁	zhou
+啁	zou
+啃	ken
+啄	zhuo
+商	shang
+啊	a	100%
+啊	o	0%
+啐	cui
+啕	tao
+啜	chuo
+啡	fei
+啤	pi
+啥	sha
+啦	la
+啧	ze
+啪	pa	100%
+啪	pai	0%
+啪	pia	10%
+啬	se
+啭	zhuan
+啰	luo
+啵	bo
+啷	lang
+啸	xiao
+啻	chi	100%
+啻	di	0%
+啻	ti	0%
+啼	ti
+啾	jiu
+啾	qiu
+喀	ka
+喀	ke
+喁	yong
+喁	yu
+喂	wei
+喃	nan
+善	shan
+喇	la
+喉	hou
+喊	han
+喋	die
+喑	yin
+喔	o	35.47%
+喔	wo	64.53%
+喔	wu	0%
+喘	chuan
+喙	hui	100%
+喙	yuan	0%
+喜	xi
+喝	he	98%
+喝	ye	2%
+喟	kui
+喧	xuan
+喱	li
+喳	cha	3.49%
+喳	zha	96.51%
+喵	miao
+喷	pen
+喻	yu
+喽	lou
+嗅	xiu
+嗉	su
+嗑	he	0%
+嗑	ke	100%
+嗒	da	99%
+嗒	ta	1%
+嗓	sang
+嗔	chen
+嗖	sou
+嗜	shi
+嗝	ge
+嗟	jie
+嗟	jue
+嗡	weng
+嗣	si
+嗤	chi
+嗥	gao
+嗥	hao
+嗦	suo
+嗨	hai
+嗫	nie
+嗬	he
+嗯	en
+嗯	eng
+嗲	dia	100%
+嗲	die	0%
+嗳	ai
+嗵	tong
+嗷	ao
+嗽	shu
+嗽	sou
+嗾	sou
+嗾	suo
+嗾	zu
+嘀	di
+嘁	qi
+嘁	za
+嘈	cao
+嘉	jia
+嘎	ga
+嘘	xu
+嘛	ma
+嘞	le	70%
+嘞	lei	30%
+嘞	liao	0%
+嘟	du
+嘣	beng
+嘤	ying
+嘬	chuai	1.47%
+嘬	zui	0%
+嘬	zuo	98.53%
+嘭	peng
+嘱	zhu
+嘲	chao	99.30%
+嘲	zhao	0.70%
+嘴	zui
+嘶	si
+嘹	liao
+嘻	xi
+嘿	hei	100%
+嘿	mo	0%
+噌	ceng
+噌	cheng
+噌	zeng
+噎	ye
+噔	deng
+噗	pu
+噙	hen
+噙	qin
+噜	lu
+噢	o	99%
+噢	ou	1%
+噢	yu	0%
+噤	jin
+器	qi
+噩	e
+噪	zao
+噫	yi
+噬	shi
+噱	ju	10%
+噱	jue	10%
+噱	xue	80%
+噼	pi
+嚅	ru
+嚎	hao
+嚏	ti
+嚓	ca	21.88%
+嚓	cha	78.13%
+嚣	xiao
+嚯	huo
+嚯	xue
+嚷	rang
+嚼	jiao	82.38%
+嚼	jue	17.62%
+囊	nang
+囔	nang
+囚	qiu
+四	si
+回	hui
+因	yin
+团	qiu
+团	tuan
+囤	dun	18.18%
+囤	tun	81.82%
+囫	hu
+园	yuan
+困	kun
+囱	chuang	0%
+囱	cong	100%
+围	wei
+囵	lun
+囹	ling
+固	gu
+国	guo
+图	tu
+囿	you
+圃	pu
+圄	wu
+圄	yu
+圆	yuan
+圈	juan	2.17%
+圈	quan	97.83%
+圜	huan	39.13%
+圜	yuan	60.87%
+土	tu
+圣	guai	0%
+圣	ku	100%
+圣	sheng	0%
+在	zai
+圩	wei
+圩	yu
+圩	xu
+地	de	25.60%
+地	di	74.40%
+场	chang
+圾	ji
+圾	se
+址	zhi
+均	jun	100%
+均	yun	0%
+坊	fang
+坍	tan
+坎	kan
+坏	bei	0%
+坏	huai	0%
+坏	pei	100%
+坏	pi	5%
+坐	zuo
+坑	keng
+块	kuai
+坚	jian
+坛	tan
+坝	ba
+坞	wu
+坟	fen
+坠	zhui
+坡	po
+坤	kun
+坦	tan
+坨	tuo
+坩	gan
+坪	ping
+坯	pei
+坯	pi
+坳	ao
+坷	ke
+垂	chui
+垃	la
+垃	le
+垄	long
+型	xing
+垒	lei
+垛	duo
+垠	yin
+垢	gou
+垣	huan	0%
+垣	yuan	100%
+垦	ken	0%
+垦	yin	100%
+垧	jiong
+垧	shang
+垩	e
+垩	sheng
+垫	dian
+垮	kua
+埂	geng
+埃	ai
+埋	mai	99.80%
+埋	man	0.20%
+城	cheng
+埔	bu	7.27%
+埔	pu	92.73%
+埚	guo
+埝	dian
+埝	nian
+埝	nie
+域	yu
+埠	bu
+埯	an
+埯	yan
+培	pei	100%
+培	pou	0%
+基	ji
+堂	tang
+堆	dui
+堑	qian
+堕	duo
+堡	bao	95.72%
+堡	pu	2.96%
+堤	di	100%
+堤	ti	0%
+堪	kan
+堰	yan
+堵	du
+塌	ta
+塑	su
+塑	suo
+塔	ta
+塘	tang
+塞	sai	88.67%
+塞	se	11.33%
+塞	sei	0%
+填	tian
+塬	yuan
+塾	shu
+境	jing
+墅	shu
+墒	shang
+墓	mu
+墙	qiang
+增	zeng
+墟	xu
+墨	mo
+墩	dun
+壁	bi
+壅	yong
+壑	he	100%
+壑	huo	0%
+壑	rui	0%
+壕	hao
+壤	rang
+士	shi
+壬	ren
+壮	zhuang
+声	sheng
+壳	ke	97.56%
+壳	qiao	2.44%
+壳	que
+壶	hu
+壹	yi
+处	chu
+备	bei	0%
+备	yuan	100%
+复	fou	0%
+复	fu	100%
+夏	jia	0%
+夏	xia	100%
+夕	xi
+外	wai
+夙	su
+多	duo
+夜	ye
+够	gou
+大	da	99.85%
+大	dai	0.15%
+大	tai	0%
+天	tian
+太	tai	100%
+太	tui	0%
+夫	fu
+夭	ao	0%
+夭	yao	100%
+央	yang
+夯	ben	2.88%
+夯	hang	97.12%
+夯	li	0%
+夯	nu	0%
+失	shi
+头	tou
+夷	yi
+夸	kua
+夹	jia	99.70%
+夺	duo
+奁	lian
+奂	huan
+奄	yan
+奇	ji	0.88%
+奇	qi	99.12%
+奈	nai
+奉	feng
+奋	ben	2.5%
+奋	fen	0.5%
+奋	gang	97%
+奎	kui
+奏	zou
+契	qi	93.95%
+契	qie	0.30%
+契	xie	0.30%
+奔	ben
+奕	yi
+奖	jiang
+套	tao
+奚	xi
+奠	dian
+奢	she
+奥	ao	100%
+奥	yu	0%
+女	nv	100%
+女	ru	0%
+奴	nu
+奶	nai
+奸	jian
+她	ta	100%
+她	yi	0%
+好	hao
+妁	shuo
+如	ru
+妃	fei	100%
+妃	pei	0%
+妄	wang
+妆	zhuang
+妇	fu
+妈	ma
+妊	ren
+妍	yan
+妒	du
+妓	ji
+妖	yao
+妙	miao
+妞	niu
+妣	bi
+妥	tuo
+妨	fang
+妩	wu
+妮	ni
+妯	zhou
+妯	zhu
+妹	mei
+妻	qi
+妾	qie
+姆	mu
+姊	jie
+姊	zi
+始	shi
+姐	jie
+姑	gu
+姓	xing
+委	wei
+姗	shan	100%
+姗	xian	0%
+姘	pin
+姚	yao
+姜	jiang
+姣	jiao
+姥	lao	100%
+姥	mu	0%
+姨	yi
+姹	cha
+姻	yin
+姿	zi
+威	wei
+娃	wa
+娄	lou
+娄	lv
+娆	rao
+娇	jiao
+娉	ping
+娌	li
+娑	suo
+娓	wei
+娘	nia	0%
+娘	niang	100%
+娜	na	99.85%
+娜	nuo	0.15%
+娟	juan
+娠	chen
+娠	shen
+娠	zhen
+娥	e
+娩	mian
+娩	wan
+娱	yu
+娲	wa
+娴	xian
+娶	qu
+娼	chang
+婀	e
+婆	po
+婉	wan
+婊	biao
+婚	hun
+婢	bei
+婢	bi
+婪	lan
+婴	ying
+婵	chan
+婶	shen
+婷	ting
+婺	wu
+婿	xu
+媒	mei
+媚	mei
+媲	bi
+媲	pi
+媳	xi
+媾	gou
+嫁	jia
+嫂	sao
+嫉	ji
+嫌	xian
+嫔	pin
+嫖	piao
+嫡	di
+嫣	yan
+嫦	chang
+嫩	nen
+嫩	nun
+嬉	xi
+嬗	shan
+孀	shuang
+子	zi
+孑	jie
+孔	kong
+孕	yun
+字	zi
+存	cun
+孙	sun
+孚	fu
+孜	zi
+孝	xiao
+孟	meng
+孢	bao
+季	ji
+孤	gu
+学	xiao
+学	xue
+孩	hai
+孪	luan
+孪	lvan
+孬	huai	0%
+孬	nao	100%
+孰	shu
+孱	can	50%
+孱	chan	50%
+孳	zi
+孵	fu
+孺	ru
+孽	nie
+宁	ning	0%
+宁	zhu	100%
+它	ta	100%
+它	tuo	0%
+宅	zhai	100%
+宅	zhe	0%
+宇	yu
+守	shou
+安	an
+宋	song
+完	wan
+宏	hong
+宕	dang	100%
+宕	yan	0%
+宗	zong
+官	guan
+宙	zhou
+定	ding
+宛	wan	99%
+宛	yuan	1%
+宜	yi
+宝	bao
+实	shi
+宠	chong
+审	shen
+客	ke
+宣	xuan
+室	shi
+宥	you
+宦	huan
+宪	hun	33%
+宪	mao	33%
+宪	xian	0%
+宪	xiong	34%
+宫	gong
+宰	zai
+害	hai	100%
+害	he	0%
+宴	yan
+宵	xiao
+家	gu	0.01%
+家	jia	99.99%
+容	rong
+宽	kuan
+宾	bin
+宿	su	84.69%
+宿	xiu	15.31%
+寂	ji
+寄	ji
+寅	yin
+密	mi
+寇	kou
+富	fu
+寐	mei
+寒	han
+寓	yu
+寝	qin
+寞	mo
+察	cha
+寡	gua
+寥	liao
+寨	zhai
+寰	huan
+寸	cun
+对	dui
+寺	si
+寻	xun	99.96%
+导	dao
+寿	shou
+封	feng
+射	she	100%
+射	shi	0%
+射	ye	0%
+射	yi	0%
+将	jiang	100%
+将	qiang	0%
+尉	wei	96.39%
+尉	yu	3.61%
+尊	zun
+小	xiao
+少	shao
+尔	er
+尖	jian
+尘	chen
+尚	shang
+尝	chang
+尤	you
+尥	liao
+尧	yao
+尬	ga
+尬	jie
+就	jiu
+尴	gan
+尸	shi
+尺	che	0.52%
+尺	chi	99.48%
+尼	ni
+尽	jin
+尾	wei	99%
+尾	yi	1%
+尿	niao	99.61%
+尿	sui	0.39%
+局	ju
+屁	pi
+层	ceng
+居	ji	0%
+居	ju	100%
+屈	jue	0%
+屈	qu	100%
+屉	ti
+届	jie	100%
+届	qu	0%
+屋	wu
+屎	shi	100%
+屎	xi	0%
+屏	bing	0.76%
+屏	ping	99.24%
+屐	ji
+屑	xiao	0%
+屑	xie
+屑	xue
+展	zhan
+屙	e
+属	shu	99.93%
+属	zhu	0.07%
+屠	chu	0%
+屠	tu	100%
+屡	lv
+履	li	0%
+履	lv	100%
+屯	chun	0%
+屯	tun	99.71%
+屯	zhun	0.29%
+山	shan
+屹	qi
+屹	yi
+屿	yu
+岁	sui
+岂	kai
+岂	qi
+岌	ji
+岔	cha
+岖	qu
+岗	gang
+岚	lan
+岛	dao
+岩	yan
+岬	jia
+岭	ling
+岳	yue
+岸	an
+岿	kui
+峋	xun
+峙	zhi
+峡	xia
+峥	cheng
+峥	zheng
+峦	luan
+峨	e
+峭	qiao
+峰	feng
+峻	jun
+崇	chong
+崎	qi
+崔	cui
+崖	ai	0%
+崖	ya
+崖	yai
+崛	jue
+崛	qu
+崩	beng
+崭	zhan
+崽	zai
+嵌	kan	2.45%
+嵌	qian	97.55%
+嵘	rong
+嵩	song
+嵬	wei
+嵯	cuo
+嶂	zhang
+嶙	lin
+巅	dian
+巍	wei
+川	chuan
+州	zhou
+巡	xun
+巢	chao
+工	gong
+左	zuo
+巧	qiao
+巨	ju
+巩	gong
+巫	wu
+差	cha	98.10%
+差	chai	1.63%
+差	ci	0.27%
+差	cuo	0%
+己	ji
+已	yi
+巳	si
+巴	ba
+巷	hang	3.38%
+巷	xiang	96.62%
+巾	jin
+币	bi
+币	yin
+市	shi
+布	bu
+帅	shuai
+帆	fan
+师	shi
+希	xi
+帏	wei
+帐	zhang
+帕	pa
+帖	tie
+帘	lian
+帙	zhi
+帚	zhou
+帛	bo
+帜	zhi
+帝	di
+带	dai
+帧	zheng
+席	xi
+帮	bang
+帷	wei
+常	chang
+帼	guo
+帽	mao
+幂	mi
+幂	mu
+幄	wo
+幅	fu
+幌	huang
+幔	man
+幕	mo	0%
+幕	mu	100%
+幛	zhang
+幡	fan
+幡	po
+幢	chuang	2.33%
+幢	zhuang	97.67%
+干	gan
+平	ping
+年	nian
+并	bing
+幸	xing
+幺	yao
+幻	huan
+幼	you
+幽	you
+广	guang	0%
+广	yan	100%
+庄	peng	98%
+庄	zhuang	2%
+庆	qing
+庇	bi
+床	chuang
+序	xu
+庐	lu
+库	ku
+应	ying
+底	de	1.38%
+底	di	98.62%
+庖	pao
+店	dian
+庙	miao
+庚	geng
+府	fu
+庞	pang
+废	fei
+度	du	99.97%
+度	duo	0.03%
+座	zuo
+庭	ting
+庵	an
+庶	shu
+康	kang
+庸	yong
+廉	lian
+廊	lang
+廓	kuo
+延	yan
+廷	ting
+建	jian
+廿	nian
+开	jian	95%
+开	kai	0%
+开	qian	5%
+弁	bian
+弁	pan
+异	yi
+弃	qi
+弄	long	3.66%
+弄	neng	0%
+弄	nong	96.34%
+弄	nou	0%
+弈	yi
+弊	bi
+弋	yi
+式	shi
+弓	gong
+引	yin
+弗	fu
+弘	hong
+弛	chi
+弛	shi
+弟	di	100%
+弟	ti	0%
+张	zhang
+弥	mi
+弦	xian
+弦	xuan
+弧	hu
+弩	nu
+弭	mi
+弯	wan
+弱	ruo
+弹	dan	22.28%
+弹	tan	77.72%
+强	jiang	0.01%
+强	qiang	99.99%
+彀	gou
+归	gui
+归	kui
+当	dang
+录	lu
+彗	hui
+彝	yi
+形	xing
+彤	tong
+彩	cai
+彪	biao
+彬	bin
+彭	peng
+彰	zhang
+影	ying
+彳	chi
+彷	fang	37.93%
+彷	pang	62.07%
+役	yi
+彻	che
+彼	bi
+往	wang
+征	zheng
+径	jing
+待	dai
+徇	xun
+很	hen
+徉	yang
+徊	huai	88.24%
+徊	hui	11.76%
+律	lv
+徐	xu
+徒	tu
+徕	lai
+得	dai	0%
+得	de	97%
+得	dei	3%
+得	di	0%
+徘	pai
+徙	tu	0%
+徙	xi	100%
+徜	chang
+徜	tang
+御	ya	0%
+御	yu	100%
+徨	huang
+循	xun
+徭	yao
+微	wei
+德	de
+徽	hui
+心	xin
+必	bi
+忆	yi
+忌	ji
+忍	ren
+忏	chan	1%
+忏	qian	99%
+忐	tan
+忑	te
+忖	cun
+志	zhi
+忘	wang
+忙	mang
+忠	zhong
+忡	chong
+忤	wu
+忧	you
+忪	song	100%
+忪	zhong	0%
+快	kuai
+忱	chen
+念	nian
+忸	niu
+忸	nv
+忽	hu
+忾	kai
+忾	xi
+忿	fen
+怀	fu	100%
+怀	huai	0%
+态	tai
+怂	song
+怃	wu
+怄	ou
+怅	chang
+怆	chuang
+怎	ze	1%
+怎	zen	99%
+怏	yang
+怒	nu
+怔	leng	0%
+怔	zheng	100%
+怕	pa
+怖	bu
+怙	gu
+怙	hu
+怜	lian	0%
+怜	ling
+思	sai	0%
+思	si	100%
+怠	dai
+怡	yi
+急	ji
+怦	peng
+性	xing
+怨	yuan
+怩	ni
+怪	guai
+怫	fei	50%
+怫	fu	50%
+怯	qie
+怯	que
+怵	chu
+总	zong
+恃	shi
+恋	lian
+恍	huang
+恐	kong
+恒	heng
+恕	shu
+恙	yang
+恢	hui
+恣	ci
+恣	zi
+恤	xu
+恨	hen
+恩	en
+恪	ke	100%
+恪	que	0%
+恫	dong
+恫	tong
+恬	tian
+恭	gong
+息	xi
+恰	qia	100%
+恰	xia	0%
+恳	ken
+恶	e	99.99%
+恶	wu	0.01%
+恸	tong
+恹	yan
+恻	ce
+恼	nao
+恿	yong
+悄	qiao
+悉	xi
+悌	di
+悌	ti
+悍	han
+悔	hui
+悖	bei	100%
+悖	bo	0%
+悚	song
+悛	juan
+悛	quan
+悟	wu
+悠	you
+患	huan
+悦	yue
+您	nin
+悬	xuan
+悭	qian
+悯	min
+悱	fei
+悲	bei
+悴	cui
+悸	ji
+悻	xing
+悼	dao	100%
+悼	diao	0%
+情	qing
+惆	chou
+惊	jing	0%
+惊	liang
+惋	wan
+惑	huo
+惕	ti
+惘	wang
+惚	hu
+惜	xi
+惟	wei
+惠	hui
+惦	dian
+惧	ju
+惨	can
+惩	cheng
+惫	bei
+惬	qie
+惭	can
+惮	dan
+惯	guan
+惰	duo
+想	xiang
+惴	zhui
+惶	huang
+惹	re
+惺	xing
+愀	jiu
+愀	qiao
+愀	qiu
+愁	chou
+愈	yu
+愉	yu
+愎	bi
+愎	fu
+意	yi
+愕	e
+愚	yu
+感	gan	100%
+感	han	0%
+愠	yun
+愣	leng
+愤	fen
+愧	kui
+愫	su
+愿	yuan
+慈	ci
+慌	heng	0%
+慌	huang	100%
+慎	shen
+慑	she
+慕	mu
+慢	man
+慧	hui
+慨	kai
+慰	wei
+慵	yong
+慷	kang
+憋	bie
+憎	zeng
+憔	jiao
+憔	qiao
+憧	chong
+憨	gan	0%
+憨	han	100%
+憩	qi
+憩	xi
+憬	jing
+憷	chu
+憾	han
+懂	dong
+懈	xie
+懊	ao
+懑	men
+懒	lan
+懦	nuo
+懦	ru
+懵	meng
+戈	ge
+戌	xu
+戍	shu
+戎	rong
+戏	hu	0%
+戏	hui	0%
+戏	xi	100%
+成	cheng
+我	e	0%
+我	wo	100%
+戒	jie
+戕	ji
+戕	qiang
+或	huo
+戗	qiang
+战	zhan
+戚	cu	0%
+戚	qi	100%
+戛	ga
+戛	jia
+戟	ji
+戡	kan
+截	jie
+戮	lu
+戳	chuo
+戴	dai
+户	hu
+戾	lei
+戾	li
+戾	lie
+房	fang	100%
+房	pang	0%
+所	suo
+扁	bian	99.37%
+扁	pian	0.63%
+扇	shan
+扈	hu
+扉	fei
+手	shou
+才	cai
+扎	za	6.72%
+扎	zha	93.28%
+扑	pi	0.1%
+扑	po	1%
+扑	pou	0.9%
+扑	pu	98%
+扒	ba	72.04%
+扒	pa	27.96%
+打	da
+扔	reng
+托	tuo
+扛	gang	1%
+扛	kang	99%
+扣	kou
+扦	qian
+执	zhi
+扩	kuo
+扫	sao
+扬	yang
+扭	niu
+扮	ban
+扯	che
+扰	rao	0%
+扰	you	100%
+扳	ban	100%
+扳	pan	0%
+扶	fu
+批	pi
+扼	e
+扽	dun
+找	zhao
+承	cheng
+技	ji
+抄	chao
+抉	jue
+把	ba	100%
+把	bai	0%
+抑	yi
+抒	shu
+抓	chua	0%
+抓	zhao	0%
+抓	zhua	100%
+投	tou
+抖	dou
+抗	kang
+折	she	0.86%
+折	zhe	99.14%
+抚	fu
+抚	wu
+抛	pao
+抠	kou
+抡	lun
+抢	qiang
+护	hu
+报	bao
+抨	peng
+抨	ping
+披	pei
+披	pi
+抬	tai
+抱	bao
+抵	di	100%
+抵	zhi	0%
+抹	ma	7.13%
+抹	mo	92.87%
+抻	chen
+抻	shen
+押	ya
+抽	chou
+抿	min
+拂	bi	0%
+拂	fu	100%
+拄	zhu
+担	dan
+拆	chai	97.23%
+拆	che	2.77%
+拇	mu
+拈	nian
+拉	la
+拌	ban	100%
+拌	pan	0%
+拍	pai	100%
+拍	po	0%
+拎	lin
+拎	ling
+拐	guai
+拒	ju
+拓	ta	1.19%
+拓	tuo	98.81%
+拓	zhi	0%
+拔	ba
+拖	tuo
+拗	ao	60.12%
+拗	niu	39.88%
+拗	yao	0%
+拗	yu	0%
+拘	ju
+拙	zhuo
+招	qiao	0%
+招	shao	0%
+招	zhao	100%
+拜	bai
+拟	ni
+拢	long
+拣	jian
+拥	yong
+拦	lan
+拧	ning
+拨	bo
+择	ze	98.75%
+择	zhai	1.25%
+括	gua	0.51%
+括	kuo	99.49%
+拭	shi
+拮	jie
+拯	zheng
+拱	gong
+拳	quan
+拴	shuan
+拷	kao
+拼	pin
+拽	ye	0.18%
+拽	zhuai	99.82%
+拾	she	0.10%
+拾	shi	99.90%
+拿	na
+持	chi
+挂	gua
+指	zhi
+挈	qie
+按	an
+挎	ku	0%
+挎	kua	100%
+挑	tao	0%
+挑	tiao	100%
+挖	wa
+挚	zhi
+挛	lian
+挛	luan
+挛	lvan
+挝	zhua	74.70%
+挞	ta
+挟	jia
+挟	xia
+挟	xie
+挠	nao
+挡	dang
+挣	zheng
+挤	ji
+挥	hui
+挨	ai
+挪	nuo
+挫	cuo
+振	zhen
+挲	sa	12.50%
+挲	sha	12.50%
+挲	suo	87.50%
+挺	ting
+挽	wan
+捂	wu
+捅	tong
+捆	kun
+捉	zhuo
+捋	le	0%
+捋	luo	6.67%
+捋	lv	93.33%
+捌	ba
+捍	han
+捎	shao
+捏	nie
+捐	juan
+捕	bu
+捞	lao
+损	sun
+捡	jian
+换	huan
+捣	dao
+捧	peng
+捭	bai
+捭	bi	1%
+捭	bo
+据	ju
+捯	dao
+捶	chui
+捷	jie
+捺	na
+捻	nian
+捻	nie
+掀	xian	100%
+掀	xin	0%
+掂	dian
+掇	duo
+掇	zhui
+授	shou
+掉	diao
+掌	zhang
+掏	tao
+掐	qia
+排	pai
+掖	ye
+掖	yi
+掘	jue
+掠	lve
+探	tan
+掣	che
+掣	zhi
+接	jie
+控	kong
+推	tui
+掩	yan
+措	cuo
+掬	ju
+掮	jian
+掮	qian
+掰	bai
+掳	lu
+掴	guo	97.33%
+掷	zhi
+掸	dan	50%
+掺	can
+掺	chan
+掺	shan
+掼	guan
+揄	yao
+揄	you
+揄	yu
+揉	rou
+揍	zou
+描	miao
+提	di	0.05%
+提	shi	0%
+提	ti	99.95%
+插	cha
+揖	ji	0%
+揖	yi	100%
+揠	ya
+握	wo
+揣	chuai	100%
+揣	chuan	0%
+揩	ka
+揩	kai
+揪	jiu	100%
+揪	qiu	0%
+揭	jie
+揭	qi
+援	yuan
+揶	ye
+揽	lan
+搀	chan
+搁	ge
+搂	lou
+搅	jiao
+搌	zhan
+搏	bo
+搐	chou
+搐	chu
+搐	xu
+搓	cuo
+搔	sao
+搜	sou
+搞	gao
+搡	sang
+搪	tang
+搬	ban
+搭	da
+携	xi
+携	xie
+搽	ca	0%
+搽	cha	100%
+摁	en
+摄	she	99.72%
+摆	bai
+摇	yao
+摈	bin
+摊	tan
+摒	bing
+摒	ping
+摔	shuai
+摘	zhai	100%
+摘	zhe	0%
+摞	luo
+摧	cui
+摩	ma	0.10%
+摩	mo	99.90%
+摸	mao	0%
+摸	mo	100%
+摹	mo
+摽	biao
+摽	piao
+撂	liao
+撂	lve
+撅	jue
+撇	pie
+撑	cheng
+撒	sa
+撕	si	100%
+撕	xi	0%
+撞	chuang
+撞	zhuang
+撤	che
+撩	liao
+撬	qiao
+播	bo
+撮	cuo	99.90%
+撮	zui	0%
+撮	zuo	0.10%
+撰	zhuan
+撵	nian
+撷	xie
+撸	lu
+撺	cuan
+撼	han
+擀	gan
+擂	lei
+擅	shan
+操	cao
+擎	jing	0%
+擎	qing	100%
+擒	qin
+擘	bi	17.65%
+擘	bo	82.35%
+擞	sou
+擢	zhuo
+擤	xing
+擦	ca
+攀	pan
+攉	huo
+攒	cuan	10%
+攒	zan	90%
+攘	rang
+攥	cuan
+攥	zuan
+攫	jue
+攮	nan
+攮	nang
+支	zhi
+收	shou
+攸	you
+改	gai
+攻	gong
+放	fang
+政	zheng
+故	gu
+效	xiao
+敌	di	0%
+敌	hua
+敏	min
+救	jiu
+敕	chi
+敖	ao
+教	jiao
+敛	lian
+敝	bi
+敞	chang
+敢	gan
+散	san
+敦	dui	4.53%
+敦	dun	96.47%
+敬	jing
+数	cu	0%
+数	shu	99.50%
+数	shuo	0.50%
+数	su	0%
+敲	qiao
+整	zheng
+敷	fu
+文	wen
+斋	zhai
+斐	fei
+斐	pei
+斑	ban
+斓	lan
+斗	dou
+料	liao
+斜	xia	0%
+斜	xie	100%
+斜	ye	0%
+斟	zhen
+斡	guan
+斡	wo
+斤	jin
+斥	chi
+斧	fu
+斩	zhan
+断	duan
+斯	si
+新	xin
+方	fang
+施	shi	100%
+施	yi	0%
+旁	bang	0.24%
+旁	pang	99.76%
+旅	lv
+旋	xuan
+旌	jing	100%
+旌	ling	0%
+旎	ni
+族	zu
+旖	yi
+旗	qi
+无	mo
+无	wu
+既	ji
+日	mi	0%
+日	ri	100%
+旦	dan
+旧	jiu
+旨	zhi
+早	zao
+旬	xun
+旭	xu
+旮	ga
+旮	xu
+旯	la
+旰	gan
+旱	han
+时	shi
+旷	kuang
+旺	wang
+昂	ang
+昆	kun
+昌	chang
+明	ming
+昏	hun
+易	yi
+昔	cuo	0%
+昔	xi	100%
+昙	tan
+星	xing
+映	ying
+春	chun
+昧	mei
+昨	zuo
+昭	zhao
+是	shi
+昵	ni
+昼	zhou
+显	xian
+晃	huang
+晋	jin
+晌	shang
+晌	xiang
+晏	yan
+晒	shai
+晓	xiao
+晕	yun
+晖	hui
+晚	wan
+晤	wu
+晦	hui
+晨	chen
+普	pu
+景	jing	100%
+景	ying	0%
+晰	xi
+晴	qing
+晶	jing
+智	zhi
+晾	liang
+暂	zan
+暄	xuan
+暇	xia
+暑	shu
+暖	nuan	100%
+暖	xuan	0%
+暗	an
+暧	ai
+暮	mu
+暴	bao	99.78%
+暴	pu	0.22%
+曙	shu
+曝	bao	80.43%
+曝	pu	19.57%
+曦	xi
+曰	yue
+曲	qu
+曳	ye
+曳	yi
+更	geng	99.90%
+更	jing	0.10%
+曹	cao
+曼	man	100%
+曼	wan	0%
+曾	ceng	59.66%
+曾	zeng	40.34%
+替	ti
+最	zui
+月	rou	0%
+月	yue	100%
+有	you
+朋	peng
+服	fu
+朔	shuo
+朗	lang
+望	wang
+朝	chao	75.25%
+朝	zhao	24.75%
+期	ji	0.01%
+期	qi	99.99%
+朦	meng
+木	mu
+未	wei
+末	mo
+本	ben
+札	zha
+术	shu	20%
+术	zhu	80%
+朱	shu	0%
+朱	zhu	100%
+朴	piao	50%
+朴	po	0.63%
+朴	pu	55.16%
+朵	duo
+机	ji	90%
+机	wei	10%
+朽	xiu
+杀	sha
+杂	duo	100%
+杂	za	0%
+权	quan	0%
+权	shu	100%
+杆	gan
+杈	cha
+杉	sha	0.59%
+杉	shan	99.41%
+李	li
+杏	xing
+材	cai
+村	cun
+杖	zhang
+杜	du
+杞	qi
+束	shu
+杠	gang
+条	di
+条	tiao
+来	lai
+杨	yang
+杭	hang
+杯	bei
+杰	jie
+杳	miao	0%
+杳	yao	100%
+杷	ba
+杷	pa
+杼	zhu
+松	song
+板	ban	100%
+板	pan	0%
+极	ji
+构	gou
+枇	pi
+枉	wang
+析	xi
+枕	zhen
+林	lin
+枚	mei
+果	guo
+枝	qi	0%
+枝	zhi	100%
+枞	cong
+枞	zong
+枢	ou	1%
+枢	shu
+枣	zao
+枥	li
+枪	qiang
+枫	feng
+枭	xiao
+枯	gu	0%
+枯	ku	100%
+架	jia
+枷	jia
+枸	gou	72.22%
+枸	ju	27.78%
+柄	bing
+柏	bai	67.63%
+柏	bo	32.37%
+某	mou
+柑	gan
+柑	qian
+柒	qi
+染	ran
+柔	rou
+柚	you	100%
+柚	zhu	0%
+柜	gui	99.30%
+柜	ju	0.70%
+柞	ze
+柞	zuo
+柠	chu
+柠	ning	0%
+查	cha	99.82%
+查	zha	0.18%
+柩	jiu
+柬	jian
+柯	ke
+柱	zhu
+柳	liu
+柴	chai	100%
+柴	zhai	0%
+柽	cheng	0%
+柽	jue	100%
+柿	shi
+栀	zhi
+栅	shan
+栅	zha
+标	biao
+栈	zhan
+栉	zhi
+栋	dong
+栏	lan
+树	shu
+栓	shuan
+栖	qi	64.80%
+栖	xi	35.20%
+栗	li
+校	jiao	25%
+校	xiao	100%
+栩	xu
+株	zhu
+样	yang
+核	he	99.92%
+核	hu	0.08%
+根	gen
+格	ge
+栽	zai
+桀	jie
+桁	hang
+桁	heng
+桂	gui
+桃	tao
+桅	wei
+框	kuang
+案	an
+桉	an
+桌	zhuo
+桎	zhi
+桐	tong
+桑	sang
+桓	huan
+桔	jie	14.68%
+桔	ju	85.32%
+桕	gao
+桕	jiu
+档	dang
+桥	qiao
+桦	hua
+桨	jiang
+桩	zhuang
+桫	sha
+桫	suo
+桶	tong
+梁	liang
+梅	mei
+梆	bang
+梏	gao
+梏	gu
+梓	zi
+梗	geng
+梢	shao
+梦	meng
+梧	wu
+梨	li
+梭	suo
+梯	ti
+械	jie
+械	xie
+梳	shu
+梵	fan
+检	jian
+棂	ling
+棉	mian
+棋	ji	0%
+棋	qi	100%
+棍	gun
+棒	bang
+棕	zong
+棘	ji	100%
+棘	la	0%
+棚	peng
+棠	tang
+棣	di
+棣	li
+棣	ti
+森	sen
+棱	leng
+棵	ke
+棺	guan
+椁	guo
+椅	yi
+植	zhi
+椎	chui	2.37%
+椎	zhui	97.63%
+椒	jiao	100%
+椒	shu	0%
+椟	du
+椤	luo
+椭	tuo
+椰	ye
+椴	duan
+椽	chuan
+椽	yuan
+椿	chun
+楂	cha	50%
+楂	zha	50%
+楔	xie
+楚	chu
+楞	leng
+楠	nan
+楣	mei
+楫	ji
+楷	jie	0.44%
+楷	kai	99.56%
+楹	ying
+楼	lou
+概	gai	100%
+概	kai	0%
+榄	lan
+榆	yu
+榈	lv
+榉	ju
+榔	lang
+榕	rong
+榛	zhen
+榜	bang	100%
+榜	peng	0%
+榧	fei
+榨	zha
+榫	sun
+榭	xie
+榴	liu
+榷	que
+榻	ta
+槁	gao
+槃	pan
+槌	chui
+槐	huai
+槛	jian	27.27%
+槛	kan	72.73%
+槟	bing	34.21%
+槽	cao
+槿	jin
+樊	fan	100%
+樊	pan	0%
+樟	zhang
+模	mo	98.71%
+模	mu	1.29%
+樨	xi
+樨	xu
+横	heng
+樱	ying
+樵	qiao
+樽	zun
+橄	gan
+橇	qiao
+橘	ju
+橙	chen	0%
+橙	cheng	100%
+橛	jue
+橡	xiang
+橱	chu
+橹	lu
+檀	tan
+檄	jiao
+檄	xi
+檐	yan
+檩	lin
+檬	meng
+欠	qian
+次	ci	100%
+次	zi	0%
+欢	huan
+欣	xin
+欧	ou
+欲	yu
+欺	qi
+款	kuan
+歃	sha
+歇	xie
+歉	qian
+歌	ge
+止	zhi
+正	zheng
+此	ci
+步	bu
+武	wu
+歧	qi
+歪	wai
+歹	dai	100%
+歹	e	0%
+死	si
+歼	jian
+殃	yang
+殄	tian
+殄	zhen
+殆	dai
+殆	tai
+殉	xun
+殊	shu
+残	can
+殍	piao
+殒	yun
+殓	lian
+殖	shi	14.94%
+殖	zhi	85.06%
+殚	dan
+殡	bin
+殴	ou
+殴	qu
+段	duan
+殷	yan	30%
+殷	yin
+殿	dian
+毁	hui
+毂	gu
+毅	yi
+毋	wu
+母	mu
+每	mei
+毒	du
+毓	yu
+比	bi	100%
+比	pi	0%
+毕	bi
+毖	bi
+毗	bi
+毗	pi
+毙	bi
+毛	mao
+毡	tan
+毡	zhan
+毫	hao
+毯	tan
+毽	jian
+氅	chang
+氆	pu
+氇	lu
+氏	shi	99.88%
+氏	zhi	0.12%
+民	min
+氓	mang	93.15%
+氓	meng	6.85%
+气	qi
+氖	nai
+氛	fen
+氟	fu
+氡	dong
+氢	qing
+氤	yin
+氦	hai
+氧	yang
+氨	an
+氩	ya
+氮	dan
+氯	lu
+氯	lv
+氰	qing
+氲	yun
+水	shui
+永	yong
+氽	tun
+汁	zhi
+求	qiu
+汆	cuan
+汆	tun
+汇	hui
+汉	han	0%
+汉	nv	100%
+汊	cha
+汐	xi
+汗	han
+汛	fan	0%
+汛	xun	100%
+汝	ru
+汞	gong	100%
+汞	hong	0%
+江	jiang
+池	chi
+污	wu	100%
+污	yu	0%
+汤	shang	0.06%
+汤	tang	99.94%
+汩	gu
+汩	yu
+汪	wang
+汰	tai
+汲	ji
+汹	xiong
+汽	qi
+沁	qin	100%
+沁	shen	0%
+沃	wo	100%
+沃	wu	0%
+沆	hang
+沆	kang
+沈	chen	0.01%
+沈	shen	99.99%
+沉	chen
+沌	dun	100%
+沌	zhuan	0%
+沏	qi	100%
+沏	qie	0%
+沏	qu	0%
+沐	mu
+沓	da	25%
+沓	ta	75%
+沙	sha
+沛	pei
+沟	gou
+没	mei	99.89%
+没	mo	0.11%
+沤	ou
+沥	li
+沦	lun
+沧	cang
+沪	hu
+沫	mo
+沮	ju
+沮	zu
+沱	tuo
+河	he
+沸	fei
+沸	fu
+油	you
+治	chi	0%
+治	zhi	100%
+沼	zhao
+沽	gu
+沾	zhan
+沿	yan
+泄	xie
+泄	yi
+泅	qiu
+泉	quan
+泊	bo	87.40%
+泊	po	12.60%
+泌	bi	0%
+泌	mi	100%
+泓	hong
+泔	gan
+法	fa
+泛	fan	100%
+泛	feng	0%
+泞	chu
+泞	ning	0%
+泞	zhu
+泡	pao
+波	bo	99%
+波	po	1%
+泣	qi
+泥	ni
+注	zhu
+泪	lei
+泫	xian
+泫	xuan
+泯	min
+泰	tai
+泱	yang
+泳	yong
+泵	bang
+泵	beng
+泻	xie
+泼	po
+泽	ze
+泾	jing
+洁	ji
+洁	jie	0%
+洄	hui
+洋	yang
+洌	lie
+洒	cui
+洒	sa
+洒	xi
+洒	xian
+洗	xi	99.94%
+洗	xian	0.06%
+洛	luo
+洞	dong	100%
+洞	tong	0%
+津	jin
+洪	hong
+洱	er
+洲	zhou
+活	huo
+洼	gui
+洼	wa
+洽	qia	100%
+洽	xia	0%
+派	pai
+流	liu
+浃	jia
+浅	jian	0.24%
+浅	qian	99.76%
+浆	jiang
+浇	jiao
+浊	zhuo
+测	ce
+济	ji
+浏	liu
+浑	hun
+浓	nong
+浙	zhe
+浚	jun	80%
+浚	xun	20%
+浜	bang
+浜	bin
+浜	pin
+浦	pu
+浩	hao
+浪	lang
+浮	fou	0%
+浮	fu	100%
+浴	yu
+海	hai
+浸	jin
+涂	tu
+涅	nie
+消	xiao
+涉	she
+涌	chong
+涌	yong	0%
+涎	xian
+涎	yan
+涓	juan
+涔	cen
+涕	ti
+涛	tao
+涝	lao
+涟	lian
+涡	guo	5.26%
+涡	wo	94.74%
+涣	huan
+涤	di
+润	run
+涧	jian
+涨	zhang
+涩	se
+涮	shua
+涮	shuan
+涯	ya
+液	ye
+液	yi
+涵	han
+涸	gu
+涸	hao
+涸	he
+淀	dian
+淅	xi
+淆	xiao
+淆	yao	5%
+淋	lin
+淌	tang
+淑	shu
+淖	chuo	1%
+淖	nao
+淖	zhao	1%
+淖	zhuo	1%
+淘	tao
+淙	cong
+淙	zong
+淡	dan
+淤	yu
+淫	yin
+淬	cui
+淮	huai
+深	shen
+淳	chun
+混	gun	0%
+混	hun	100%
+混	kun	0%
+淹	yan
+添	tian
+清	qing
+渊	yuan
+渍	zi
+渎	du
+渐	jian
+渔	yu
+渗	shen
+渝	yu
+渠	ju	0%
+渠	qu	100%
+渡	du
+渣	zha
+渤	bo
+渥	wo
+温	wen
+渭	wei
+港	gang
+渲	xuan
+渴	he	0%
+渴	jie	0%
+渴	ke	100%
+游	you
+渺	miao
+湃	bai
+湃	pai
+湍	tuan
+湎	mian
+湖	hu
+湘	xiang
+湛	dan	0%
+湛	zhan	100%
+湮	yan	83.78%
+湮	yin	16.22%
+湾	wan
+湿	shi
+溃	kui	94.21%
+溅	jian
+溉	gai
+源	yuan
+溘	ke
+溜	liu
+溢	yi
+溪	qi	0%
+溪	xi	100%
+溯	shuo
+溯	su
+溯	suo
+溶	rong
+溺	ni	95%
+溺	niao	5%
+溽	ru
+滂	pang
+滇	dian
+滇	tian
+滋	zi
+滑	gu	0%
+滑	hua	100%
+滓	zai
+滓	zi
+滔	tao
+滕	teng
+滗	bi
+滚	gun
+滞	zhi
+滟	yan
+满	man
+滤	lv
+滥	lan
+滨	bin
+滨	pin
+滩	tan
+滴	di
+漂	piao
+漆	qi	99%
+漆	qu	1%
+漉	lu
+漏	lou
+漓	li
+演	yan
+漠	mo
+漩	xuan
+漪	yi
+漫	man
+漱	shu
+漱	sou
+漾	yang
+潇	xiao
+潋	lian
+潘	pan
+潜	qian
+潢	huang
+潦	lao	12.50%
+潦	liao	87.50%
+潭	tan
+潮	chao
+潴	zhu
+潸	shan
+潺	chan
+澄	cheng	94.06%
+澄	deng	5.94%
+澈	che
+澎	peng
+澜	lan
+澡	zao
+澳	ao	100%
+澳	yu	0%
+激	ji
+濒	bin
+濡	ru
+濯	di
+濯	zhao
+濯	zhuo
+瀑	bao	2.02%
+瀑	pu	97.98%
+瀚	han
+瀛	ying
+瀣	xie
+灌	guan
+火	huo
+灭	mie
+灯	deng	1%
+灯	ding	99%
+灰	hui
+灵	ling
+灶	zao
+灸	jiu	100%
+灸	zhi	0%
+灼	zhuo
+灾	zai
+灿	can
+炉	lu
+炊	chui
+炎	yan
+炒	chao
+炔	gui
+炔	jue
+炔	kuai
+炔	que
+炕	kang
+炖	dun
+炖	tun
+炖	zhun
+炙	jiu	0%
+炙	zhi	100%
+炝	qiang
+炫	xian	0%
+炫	xuan	100%
+炬	ju
+炭	tan
+炮	bao	0.08%
+炮	pao	99.92%
+炯	jiong
+炷	zhu
+炸	zha
+点	dian
+炼	lian
+炽	chi
+烁	shuo
+烂	lan
+烈	lie
+烊	yang
+烘	hong
+烙	lao
+烙	luo
+烛	chong
+烛	zhu
+烟	yan
+烤	kao
+烦	fan
+烧	shao
+烩	hui
+烫	tang
+烬	jin
+热	re
+烹	peng
+烽	feng
+焉	yan
+焊	han
+焐	wu
+焕	huan
+焖	men
+焗	ju
+焙	bei	100%
+焙	pei	0%
+焚	fen
+焦	jiao
+焰	yan
+然	ran
+煅	duan
+煊	nuan
+煊	xuan
+煌	huang
+煎	jian
+煞	sha
+煤	mei
+煦	xu
+照	zhao
+煨	wei
+煮	zhu
+煲	bao
+煳	hu
+煸	bian
+煺	tui
+煽	shan
+熄	xi
+熊	xiong
+熏	xun
+熔	rong
+熘	liu
+熙	xi	100%
+熙	yi	0%
+熟	shou	12.20%
+熟	shu	87.80%
+熠	yi
+熨	yu	50%
+熨	yun	50%
+熬	ao
+熹	xi
+燃	ran
+燎	liao
+燕	yan
+燥	zao
+燧	sui
+爆	bao	100%
+爆	bo	0%
+爪	zhao	3.68%
+爪	zhua	96.32%
+爬	pa
+爱	ai
+爵	jue	100%
+爵	que	0%
+父	fu
+爷	ye
+爸	ba	100%
+爸	bei	0%
+爹	die
+爽	shuang
+片	pian
+版	ban
+牌	pai
+牍	du
+牒	die
+牙	ya
+牛	niu
+牝	pin
+牟	mou	74.56%
+牟	mu	25.44%
+牡	mou	0%
+牡	mu	100%
+牢	lao
+牦	mao
+牧	mu
+物	wu	100%
+物	zhi	0%
+牯	gu
+牲	sheng
+牵	qian
+特	te
+牺	xi
+牾	wu
+犀	xi
+犁	li
+犄	ji
+犊	du
+犋	ju
+犍	jian
+犒	kao
+犟	jiang
+犬	quan
+犯	fan
+犰	chou
+犰	qiu
+状	zhuang
+犷	guang
+犹	you
+狂	kuang
+狄	di
+狈	bei
+狍	pao
+狎	jia
+狎	xia
+狐	hu
+狒	fei
+狒	fu
+狗	gou
+狙	ju
+狙	zu
+狞	ning
+狠	hen
+狡	jiao
+狩	shou
+独	du
+狭	xia
+狮	shi
+狯	kuai
+狰	zheng
+狱	yu
+狲	sun
+狳	yu
+狸	li
+狺	yan
+狺	yin
+狼	lang
+猁	li
+猎	ji	30%
+猎	lie	0%
+猎	que	35%
+猎	xi	35%
+猕	mi
+猖	chang
+猛	meng
+猜	cai
+猝	cu
+猞	she
+猡	luo
+猢	hu
+猥	wei
+猩	xing
+猪	zhu
+猫	mao
+猬	wei
+献	xian
+猴	hou
+猾	hua
+猿	yuan
+獐	zhang
+獒	ao
+獗	jue
+獠	liao
+獭	ta
+獾	huan
+玄	xian	0%
+玄	xuan	100%
+率	lv	94.01%
+率	shuai	5.99%
+率	shuo	0%
+玉	yu
+王	wang	100%
+王	yu	0%
+玑	ji
+玖	jiu
+玛	ma
+玩	wan
+玫	mei
+环	huan
+现	xian
+玲	ling
+玳	dai
+玷	dian
+玷	zhan
+玺	xi
+玻	bo
+珀	po
+珂	ke
+珈	jia
+珊	shan
+珍	zhen
+珐	fa
+珑	long
+珙	gong
+珞	luo
+珠	zhu
+班	ban
+球	qiu
+琅	lang
+理	li
+琉	liu
+琐	suo
+琢	zhuo
+琥	hu
+琪	qi
+琳	lin
+琴	qin
+琵	pi
+琶	ba
+琶	pa
+琼	qiong
+瑁	mao
+瑁	mei
+瑕	jia	0%
+瑕	xia	100%
+瑙	nao
+瑚	hu
+瑜	yu
+瑞	rui
+瑟	se
+瑰	gui
+瑶	yao
+璀	cui
+璃	li
+璎	ying
+璐	lu
+璞	pu
+璧	bi
+璨	can
+瓜	gua
+瓠	hu
+瓢	piao
+瓣	ban
+瓤	rang
+瓦	wa
+瓮	weng
+瓯	ou
+瓴	ling
+瓶	ping
+瓷	ci
+甄	zhen
+甑	zeng
+甘	gan
+甚	shen
+甜	tian
+生	sheng
+甥	sheng
+用	yong
+甩	shuai
+甬	yong
+甭	beng
+田	tian
+由	you
+甲	jia
+申	shen
+电	dian
+男	nan
+甸	dian
+画	hua
+畀	bi
+畅	chang
+界	jie
+畏	wei
+畔	ban	0%
+畔	pan	100%
+留	da	0%
+留	liu	100%
+畜	chu	81.28%
+畜	xu	18.72%
+略	lve
+畦	qi
+畦	wa
+畦	xi
+番	fan	89.71%
+番	pan	10.29%
+番	po	0%
+畲	she
+畴	chou
+畸	ji
+畸	qi
+畿	ji
+畿	qi
+疃	tuan
+疃	tun
+疆	jiang
+疏	shu	100%
+疏	su	0%
+疑	yi
+疔	ding
+疖	jie
+疗	liao
+疙	ge
+疙	yi
+疚	jiu
+疝	shan
+疟	nve	92.31%
+疟	yao	7.69%
+疠	li
+疡	yang
+疣	you
+疤	ba
+疥	jie
+疫	yi
+疬	li
+疮	chuang
+疯	feng
+疱	pao
+疲	pi
+疴	e
+疴	ke
+疵	ci
+疹	zhen
+疼	teng	100%
+疼	tong	0%
+疽	ju
+疽	qu
+疾	ji
+痂	jia
+病	bing
+症	zheng
+痈	yong
+痉	jing
+痊	quan
+痍	yi
+痒	yang
+痔	zhi
+痕	hen
+痘	dou
+痛	tong
+痞	pi
+痢	li
+痣	zhi
+痤	cuo
+痦	wu
+痧	sha
+痨	lao
+痪	huan
+痫	xian
+痰	tan
+痱	fei
+痴	chi
+痹	bi
+痼	gu
+痿	wei
+瘀	yu
+瘁	cui
+瘊	hou
+瘙	sao
+瘙	zao
+瘟	wen
+瘠	ji
+瘢	ban
+瘤	liu
+瘦	shou
+瘩	da
+瘪	bie
+瘫	tan
+瘰	luo
+瘴	zhang
+瘸	que
+瘾	yin
+癌	ai
+癌	yan
+癍	ban
+癔	yi
+癖	pi
+癜	dian
+癞	lai
+癣	xuan
+癫	dian
+癯	qu
+癸	gui
+登	deng
+白	bai	100%
+白	bo	0%
+百	bai	100%
+百	bo	0%
+皂	zao
+的	de	99.97%
+的	di	0.03%
+皆	jie
+皇	huang
+皈	fan
+皈	gui
+皎	jiao
+皑	ai
+皓	hao
+皖	huan	0%
+皖	wan	100%
+皙	xi
+皙	zhe
+皮	pi
+皱	zhou
+皲	jun
+皴	cun
+皿	min
+皿	ming
+盂	yu
+盅	zhong
+盆	pen
+盈	ying
+益	yi
+盎	ang
+盏	zhan
+盐	yan
+监	jian
+盒	he
+盔	hui	0%
+盔	kui	100%
+盖	gai	99.91%
+盖	ge	0.09%
+盖	he
+盗	dao
+盘	pan
+盛	cheng	5.20%
+盛	sheng	94.80%
+盟	meng	100%
+盟	ming	0%
+盥	guan
+目	mu
+盯	cheng	0%
+盯	ding	100%
+盲	mang
+直	zhi
+相	xiang
+盹	dun
+盼	pan
+盾	dun	100%
+盾	shun	0%
+省	sheng	99.88%
+省	xing	0.12%
+眈	dan
+眉	mei
+看	kan
+眍	kou
+真	zhen
+眠	mian
+眨	fa	0%
+眨	zha	100%
+眩	xian	0%
+眩	xuan	100%
+眯	mi
+眶	kuang
+眷	juan
+眸	mou
+眺	tiao
+眼	yan
+着	zhao	4.25%
+着	zhe	93.74%
+着	zhuo	2.02%
+睁	zheng
+睐	lai
+睑	jian
+睛	jing
+睡	shui
+睢	sui
+督	du
+睥	bi
+睦	mu
+睨	ni
+睫	jie
+睬	cai
+睹	du
+睽	gui
+睽	kui
+睾	gao
+睿	rui
+瞄	miao
+瞅	chou
+瞅	qiu
+瞌	ke
+瞎	xia
+瞑	mian
+瞑	ming
+瞒	man
+瞟	piao
+瞠	cheng
+瞠	tang
+瞥	pie
+瞧	qiao
+瞩	zhu
+瞪	deng
+瞬	shun
+瞰	gan
+瞰	kan
+瞳	tong
+瞻	zhan
+矍	jue
+矗	chu
+矛	mao
+矜	guan	0%
+矜	jin	100%
+矢	shi
+知	zhi
+矩	ju
+矫	jiao
+矬	cuo
+短	duan
+矮	ai
+石	dan	0.14%
+石	shi	99.86%
+矸	an
+矸	gan
+矽	xi
+矾	fan
+矿	kuang
+码	ma
+砂	sha
+砌	qi	100%
+砌	qie	0%
+砍	kan
+砒	pi
+研	yan
+砖	zhuan
+砘	dun
+砚	yan
+砝	fa
+砣	tuo
+砥	di
+砥	zhi
+砧	zhen
+砭	bian
+砰	peng	100%
+砰	ping	0%
+破	po
+砸	za
+砺	li
+砾	li
+础	chu
+硅	gui
+硌	ge	100%
+硌	luo	0%
+硒	xi
+硕	shuo
+硝	xiao
+硫	liu
+硬	ying
+确	jiao	0%
+确	que	100%
+硼	peng
+碇	ding
+碉	diao
+碌	lu
+碍	ai
+碎	cui	0%
+碎	sui	100%
+碑	bei
+碓	dui
+碓	zhui
+碗	wan
+碘	dian
+碛	qi
+碜	chen
+碟	die
+碡	du
+碣	jie
+碣	xie
+碧	bi
+碰	peng
+碱	jian
+碳	tan
+碴	cha
+碾	nian
+磁	ci
+磅	bang	97.96%
+磅	beng	1%
+磅	pang	1%
+磊	lei
+磋	cuo
+磐	pan
+磕	ke
+磙	gun
+磨	mo
+磷	lin	100%
+磷	ling	0%
+磺	huang
+礁	jiao
+礅	dun
+礴	bo
+示	qi	0%
+示	shi	100%
+礼	li
+社	she
+祀	si
+祁	qi
+祈	qi
+祉	zhi
+祖	zu
+祛	qu	100%
+祛	que	0%
+祜	gu
+祜	hu
+祝	zhu
+神	shen
+祟	sui
+祠	ci
+祥	xiang
+票	piao
+祭	ji	100%
+祭	zhai	0%
+祷	dao
+祸	huo
+禀	bin
+禀	bing
+禀	lin
+禁	jin
+禄	lu
+禅	chan	99.24%
+禅	shan	0.76%
+福	fu
+禧	xi
+离	chi
+离	li
+禽	qin
+禾	he
+秀	xiu
+私	si
+秃	tu
+秆	gan
+秉	bing
+秋	qiu
+种	chong
+种	zhong	0.5%
+科	ke
+秒	miao
+秕	bi
+秘	bi	0.16%
+秘	mi	99.84%
+租	zu
+秣	mo
+秤	cheng	100%
+秤	ping	0%
+秦	qin
+秧	yang
+秩	zhi
+秫	shu
+积	ji	0%
+积	zhi
+称	chen	2.48%
+称	cheng	97.52%
+秸	ji	0%
+秸	jia	0%
+秸	jie
+移	yi
+秽	hui
+稀	xi
+程	cheng
+稍	shao
+税	shui
+稔	nian
+稔	ren
+稗	bai
+稗	bi
+稚	zhi
+稞	ke
+稠	chou
+稣	su
+稳	wen
+稷	ji
+稷	ling
+稷	su
+稻	dao
+稼	jia
+稽	ji	96.10%
+稽	qi	3.90%
+稿	gao
+穆	mu
+穑	se
+穗	sui
+穴	xue
+究	jiu
+穷	qiong
+穹	qiong
+空	kong
+穿	chuan
+突	tu
+窃	qie
+窄	ze	0%
+窄	zhai	100%
+窈	yao
+窍	qiao
+窑	yao
+窒	zhi
+窕	tiao
+窖	gao	0%
+窖	jiao	100%
+窗	chuang
+窘	jiong	100%
+窘	jun	0%
+窜	cuan
+窝	wo
+窟	jiao	0%
+窟	ku	100%
+窠	ke
+窥	kui
+窦	dou
+窨	xun	50%
+窨	yin	50%
+窿	long
+立	li
+竖	shu
+站	zhan
+竞	jing
+竟	jing
+章	zhang
+竣	jun
+童	tong
+竭	jie
+端	duan
+竹	zhu
+竺	du	0%
+竺	zhu	100%
+竽	yu
+竿	gan
+笃	du
+笆	ba
+笊	zhao
+笋	sun
+笑	xiao
+笔	bi
+笙	sheng
+笛	di
+笞	chi
+笞	tai
+笠	li
+笤	tiao
+符	fu
+笨	ben
+第	di
+笳	jia
+笸	po
+笺	jian
+笼	long
+等	deng
+筋	jin
+筏	fa
+筐	kuang
+筑	zhu
+筒	tong
+答	da
+策	ce
+筚	bi
+筛	shai
+筝	zheng
+筮	shi
+筲	shao
+筵	yan
+筷	kuai
+筹	chou
+签	qian
+简	jian
+箅	bi
+箍	gu	100%
+箍	ku	0%
+箔	bao
+箔	bo
+箕	ji
+算	suan
+管	guan
+箩	luo
+箫	xiao
+箬	ruo
+箭	jian
+箱	xiang
+箴	han
+箴	xian
+箴	zhen
+箸	zhu
+篆	zhuan
+篇	pian
+篑	kui
+篓	lou
+篙	gao
+篝	gou
+篡	cuan
+篦	bi
+篮	lan
+篱	li
+篷	peng
+篼	dou
+篾	mie
+簇	cu
+簌	su
+簧	huang
+簪	zan
+簸	bo
+簿	bo
+簿	bu
+籁	lai
+籍	ji
+米	mi
+籴	di
+类	lei
+籼	xian
+籽	zi
+粉	fen
+粑	ba
+粒	li
+粕	po
+粗	cu
+粘	nian	63.35%
+粘	zhan	36.65%
+粝	li
+粟	su
+粤	yue
+粥	yu	0%
+粥	zhou	100%
+粥	zhu	0%
+粪	fen
+粮	liang
+粱	liang
+粲	can
+粳	geng
+粳	jing
+粹	cui
+粼	lin
+粽	zhong	0%
+粽	zong	100%
+精	jing
+糅	niu
+糅	rou
+糊	hu
+糌	zan
+糍	ci
+糕	gao
+糖	tang
+糙	cao
+糙	zao
+糜	mei	4.51%
+糜	mi	95.49%
+糟	zao
+糠	kang
+糨	jiang
+糨	qiang
+糯	nuo
+系	ji	0.30%
+系	xi	99.70%
+紊	wen
+素	su
+索	suo
+紧	jin
+紫	zi
+累	lei
+絮	xu
+繁	bo	0.14%
+繁	fan	99.86%
+繁	po	0.14%
+纂	cuan	0%
+纂	zuan	100%
+纠	jiu
+红	hong	99.98%
+纣	zhou
+纤	qian	53.05%
+纤	xian	46.95%
+纥	ge	50%
+纥	he	50%
+约	yao	0.02%
+约	yue	99.98%
+级	ji
+纨	wan
+纪	ji
+纫	ren
+纬	wei
+纭	yun
+纯	chun
+纰	pi
+纱	sha
+纲	gang
+纳	na
+纵	zong
+纶	lun	94.02%
+纷	fen
+纸	zhi
+纹	wen
+纺	fang
+纽	niu
+纾	shu
+线	xian
+练	lian
+组	zu
+绅	shen
+细	xi
+织	zhi
+终	zhong
+绉	zhou
+绊	ban
+绌	chu
+绍	shao
+绎	yi
+经	jing
+绑	bang
+绒	rong
+结	jie
+绔	ku
+绕	rao
+绗	hang
+绘	hui
+给	gei	99.99%
+给	ji	0.01%
+绚	xuan
+绛	jiang
+络	lao	0.97%
+络	luo	99.03%
+绝	jue
+绞	jiao
+统	tong
+绢	juan
+绣	xiu
+绦	di	0%
+绦	tao
+继	ji
+绩	ji
+绪	xu
+绫	ling
+续	xu
+绮	qi
+绯	fei
+绰	chao	50%
+绰	chuo	50%
+绱	shang
+绲	gun
+绳	sheng
+维	wei
+绵	mian
+绶	shou
+绷	beng
+绸	chou
+绺	liu
+绻	quan
+综	zeng	50%
+综	zong	50%
+绽	zhan
+绾	wan
+绿	lv	99.26%
+缀	chuo
+缀	zhui
+缂	ke
+缄	jian
+缅	mian
+缆	lan
+缈	miao
+缉	ji	97.83%
+缉	qi	2.17%
+缎	duan
+缓	huan
+缔	di
+缕	lv
+编	bian
+缘	yuan
+缙	jin
+缚	fu
+缛	ru
+缜	zhen
+缝	feng
+缠	chan
+缢	yi
+缣	jian
+缤	bin
+缥	piao
+缨	ying
+缩	suo	99.38%
+缪	miao	32.77%
+缪	mou	0.84%
+缫	sao
+缭	liao
+缮	shan
+缰	jiang
+缱	qian
+缴	jiao	99.48%
+缸	gang
+缺	que
+罂	ying
+罄	qing
+罅	hu
+罅	xia
+罐	guan
+网	wang
+罔	wang
+罕	han
+罗	luo
+罚	fa
+罢	ba	100%
+罢	pi	0%
+罩	zhao
+罪	zui
+置	zhi
+署	shu
+罴	pi
+罹	li
+羁	ji
+羊	xiang	0%
+羊	yang	100%
+羌	qiang
+美	mei
+羔	gao
+羚	ling
+羞	xiu
+羡	xian	1%
+羡	yi	99%
+群	qun
+羸	lei
+羹	geng	100%
+羹	lang	0%
+羼	chan
+羽	yu
+翁	weng
+翅	chi
+翌	yi
+翎	ling
+翔	xiang
+翕	he
+翕	xi
+翘	qiao
+翠	cui
+翡	fei
+翩	pian
+翰	han
+翱	ao
+翳	yi
+翻	fan
+翼	yi
+耀	yao	100%
+耀	yue	0%
+老	lao
+考	kao
+者	zhe
+耆	qi
+而	er
+耍	shua
+耐	nai
+耕	geng	100%
+耕	jing	0%
+耗	hao
+耘	yun
+耙	ba	45.22%
+耙	pa	54.78%
+耦	ou
+耧	lou
+耪	pang
+耳	er
+耶	ye
+耷	da
+耸	song
+耻	chi
+耽	dan
+耿	geng
+聂	nie
+聆	ling
+聊	liao
+聋	long
+职	zhi
+聒	gua
+聒	guo
+联	lian
+聘	pin
+聘	ping
+聚	ju
+聩	kui
+聪	cong
+聱	ao
+肃	su
+肄	yi
+肆	si
+肇	zhao
+肉	rou	100%
+肉	ru	0%
+肋	le
+肋	lei
+肌	ji
+肓	huang
+肓	mang
+肖	xiao
+肘	zhou
+肚	du
+肛	gang
+肝	gan
+肠	chang
+股	gu
+肢	zhi
+肤	fu
+肥	fei
+肩	jian
+肪	fang
+肫	tun
+肫	zhun
+肮	ang
+肮	hang
+肮	kang
+肯	ken	100%
+肯	keng	0%
+肱	gong
+育	yu
+肴	xiao
+肴	yao
+肺	fei	100%
+肺	pei	0%
+肾	shen
+肿	zhong
+胀	zhang
+胁	xie
+胃	wei
+胄	zhou
+胆	da
+胆	dan
+胆	tan
+背	bei
+胎	tai
+胖	pan	0.65%
+胖	pang	99.35%
+胚	pei
+胚	pi
+胛	jia
+胜	qing
+胜	sheng
+胜	xing
+胝	zhi
+胞	bao
+胡	hu
+胧	long
+胫	jing
+胭	yan
+胯	kua
+胰	yi
+胱	guang
+胳	ge
+胴	dong
+胴	tong
+胶	jiao
+胶	xiao
+胸	xiong
+胺	an
+胼	pian
+能	neng
+脂	zhi
+脆	cui
+脉	mai	95.29%
+脉	mo	4.71%
+脊	ji
+脍	kuai
+脏	zang
+脐	qi
+脑	nao
+脓	nong
+脖	bo
+脚	jiao	99.91%
+脚	jue	0.09%
+脯	fu	50%
+脯	pu	50%
+脱	tuo
+脸	lian
+脾	pi
+腆	dian
+腆	tian
+腊	la	0%
+腊	xi	100%
+腋	ye
+腋	yi
+腌	a	40%
+腌	ang	40%
+腌	yan	22.60%
+腐	fu
+腑	fu
+腓	fei
+腔	qiang
+腕	wan
+腚	ding
+腥	xing
+腭	e
+腮	sai
+腰	yao
+腱	jian
+腴	yu
+腹	fu
+腺	xian
+腻	ni
+腼	mian
+腾	teng
+腿	tui
+膀	bang	81.25%
+膀	pang	18.75%
+膂	lv
+膈	ge
+膊	bo
+膏	gao
+膘	biao
+膛	tang
+膜	mo
+膝	xi
+膨	peng
+膳	shan
+膺	ying
+膻	dan
+膻	shan
+膻	tan
+臀	dian	0%
+臀	tun	100%
+臂	bei	2.53%
+臂	bi	97.47%
+臃	yong
+臆	yi
+臊	sao
+臣	chen
+臧	zang
+自	zi
+臭	chou	99.96%
+臭	xiu	0.04%
+至	zhi
+致	zhi
+臻	zhen
+臼	jiu
+臾	yong
+臾	yu
+舀	kuai	0%
+舀	wai	0%
+舀	yao	100%
+舂	chong
+舅	jiu
+舆	yu
+舌	she
+舍	she
+舐	shi
+舒	shu
+舔	tian
+舛	chuan
+舛	jie
+舜	shun
+舞	wu
+舟	zhou
+舢	shan
+航	hang
+舫	fang
+般	ban	100%
+般	bo	0%
+般	pan	0%
+舰	jian
+舱	cang
+舵	duo
+舶	bo
+舷	xian
+舷	xuan
+船	chuan
+艄	shao
+艇	ting
+艘	sao	0%
+艘	sou	100%
+良	liang
+艰	jian
+色	se	99.90%
+色	shai	0.09%
+色	she	0.01%
+艳	yan
+艺	yi
+艾	ai	99.04%
+艾	yi	0.96%
+节	jie
+芊	qian
+芋	yu
+芍	shao
+芍	shuo
+芒	mang
+芙	fu
+芜	wu
+芝	zhi
+芡	qian
+芥	gai	9.59%
+芥	jie	90.41%
+芦	hu	99%
+芦	lu	1%
+芨	ji
+芪	qi
+芫	yan	51.28%
+芫	yuan	48.72%
+芬	fen
+芭	ba
+芯	xin
+花	hua
+芳	fang
+芷	zhi
+芸	yi	0%
+芸	yun	100%
+芹	qin
+芽	ya
+苁	cong
+苁	zong
+苇	wei
+苋	xian
+苍	cang
+苎	zhu
+苏	su
+苑	yu	0%
+苑	yuan	100%
+苒	ran
+苓	ling
+苔	tai
+苗	miao
+苛	he	0%
+苛	ke	100%
+苜	mo	0%
+苜	mu	100%
+苞	bao
+苟	gou
+苣	ju
+苤	pi
+苤	pie
+若	re	0.10%
+若	ruo	99.90%
+苦	ku
+苫	shan
+英	ying
+苹	ping
+茁	zhuo
+茂	mao	100%
+茂	mou	0%
+范	fan
+茄	jia	53.97%
+茄	qie	46.03%
+茅	mao
+茉	mo
+茎	jing
+茏	long
+茔	ying
+茕	qiong
+茗	ming
+茜	qian	80.71%
+茜	xi	19.29%
+茧	chong	100%
+茧	jian	0%
+茫	mang
+茬	cha	100%
+茬	chi	0%
+茬	zi	0%
+茭	jiao
+茯	fu
+茱	zhu
+茴	hui
+茵	yin
+茶	cha
+茸	er	0%
+茸	rong	100%
+茹	ru
+茼	tong
+荆	jing
+草	cao
+荏	ren
+荐	jian
+荒	huang
+荔	li
+荚	jia
+荞	qiao
+荟	hui
+荠	ji	35%
+荠	qi	65%
+荡	dang
+荡	tang
+荣	ce
+荣	rong	0%
+荤	hun
+荤	xun
+荧	ying
+荨	xun	17.65%
+荪	sun
+荫	yin
+药	yao
+荷	he
+荸	bi
+荸	bo
+荻	di
+荼	shu	0%
+荼	tu	100%
+荽	sui
+莅	li
+莉	li
+莎	sha	99%
+莎	suo	1%
+莓	mei
+莘	shen	19.05%
+莘	xin	80.95%
+莜	di
+莜	diao
+莜	you
+莞	guan	86.47%
+莞	wan	13.53%
+莠	you
+莫	mo	100%
+莫	mu	0%
+莱	lai
+莲	lian
+莴	wo
+获	huai
+获	huo
+莹	ying
+莺	ying
+莼	chun
+莽	mang
+菁	jing
+菁	qing
+菅	guan	0%
+菅	jian	100%
+菇	gu
+菊	ju
+菌	jun
+菖	chang
+菜	cai
+菟	tu
+菠	bo
+菩	pu
+菱	ling
+菲	fei
+萃	cui
+萄	tao
+萋	qi
+萋	xi
+萌	meng	100%
+萌	ming	0%
+萍	ping
+萎	wei
+萝	luo
+萤	ying
+营	ying
+萦	ying
+萧	xiao
+萨	sa
+萸	yu
+萼	e
+落	la	1.06%
+落	lao	0.44%
+落	le	0%
+落	luo	98.50%
+葆	bao
+著	zhao	4.25%
+著	zhe	93.74%
+著	zhu	90.38%
+著	zhuo	2.02%
+葚	ren	70%
+葚	shen	30%
+葛	ge
+葡	pu
+董	dong
+葩	ba
+葩	pa
+葫	hu
+葬	zang
+葱	cong
+葳	wei
+葵	gui	0%
+葵	kui	100%
+葸	si
+葸	xi
+葺	qi
+葺	rong
+蒂	di
+蒋	jiang
+蒙	meng
+蒜	suan
+蒡	bang
+蒡	pang
+蒲	pu
+蒸	zheng
+蒺	ji
+蒿	gao	0%
+蒿	hao	100%
+蓄	xu
+蓉	rong
+蓊	weng
+蓑	suo
+蓓	bei
+蓓	pei
+蓖	bi
+蓝	lan
+蓦	mo
+蓬	peng
+蓿	su
+蓿	xu
+蔑	mie
+蔓	man	50%
+蔓	wan	50%
+蔗	zhe
+蔚	wei	99.48%
+蔚	yu	0.52%
+蔡	cai	100%
+蔡	sa	0%
+蔫	nian	100%
+蔫	yan	0%
+蔬	shu	100%
+蔬	su	0%
+蔷	qiang
+蔻	kou
+蔼	ai
+蔽	bi
+蕃	bo
+蕃	fan
+蕉	jiao	100%
+蕉	qiao	0%
+蕊	rui
+蕖	qu
+蕤	rui
+蕨	jue
+蕴	yun	90.36%
+蕹	weng
+蕹	yong
+蕻	hong
+蕾	lei
+薄	bao	43.39%
+薄	bo	56.61%
+薅	hao
+薇	wei
+薏	yi
+薛	xue
+薪	xin
+薮	sou
+薯	shu
+薰	xun
+薹	tai
+藉	ji	39.42%
+藉	jie	60.58%
+藏	cang	77.99%
+藏	zang	22.01%
+藐	miao
+藓	xian
+藕	ou
+藜	li
+藤	teng
+藩	fan
+藻	zao
+藿	huo
+蘑	mo
+蘖	nie
+蘸	jiao	0%
+蘸	zhan	100%
+虎	hu
+虏	lu
+虐	nve	100%
+虐	yao	0%
+虑	bi
+虑	lv	0%
+虔	qian
+虚	xu
+虞	yu
+虫	chong	100%
+虫	hui	0%
+虱	shi
+虹	gang	0.19%
+虹	hong	99.81%
+虹	jiang	0.19%
+虻	meng
+虽	sui
+虾	xia	95.70%
+蚀	shi
+蚁	yi
+蚂	ma
+蚊	wen
+蚌	bang	72.52%
+蚌	beng	27.48%
+蚍	bi
+蚍	pi
+蚓	yin
+蚕	can	1%
+蚕	tian	99%
+蚜	ya
+蚝	ci
+蚝	hao
+蚣	gong
+蚤	zao
+蚧	jie
+蚪	dou
+蚯	qiu
+蚱	zha
+蚶	gan
+蚶	han
+蛀	zhu
+蛄	gu
+蛆	ju	0%
+蛆	qu	100%
+蛇	she	99.95%
+蛇	yi	0.05%
+蛉	ling
+蛊	chong
+蛊	gu
+蛋	dan
+蛎	li
+蛏	cheng
+蛐	qu
+蛔	hui
+蛙	wa
+蛛	zhu
+蛟	jiao
+蛤	ge	1.20%
+蛤	ha	98.80%
+蛭	zhi
+蛮	man
+蛰	zhe
+蛱	jia
+蛲	nao
+蛳	si
+蛴	qi
+蛹	yong
+蛾	e	100%
+蛾	yi	0%
+蜀	shu
+蜂	feng
+蜃	chen	0%
+蜃	shen	100%
+蜇	zhe
+蜈	wu
+蜉	fu
+蜊	li
+蜍	chu
+蜍	yu
+蜒	yan
+蜓	ting
+蜕	shui
+蜕	tui
+蜗	wo
+蜘	zhi
+蜚	fei
+蜜	mi
+蜡	cha
+蜡	la	0%
+蜡	qu	50%
+蜡	zha	50%
+蜢	meng
+蜣	qiang
+蜥	xi
+蜮	yu
+蜴	yi
+蜷	juan
+蜷	quan
+蜻	qing
+蜿	wan
+蝇	ying
+蝈	guo
+蝉	chan
+蝌	ke
+蝎	he	99%
+蝎	xie	1%
+蝗	huang
+蝙	bian
+蝠	fu
+蝣	you
+蝥	mao
+蝥	mou
+蝮	fu
+蝴	hu
+蝶	die
+蝼	lou
+蝾	rong
+螂	lang
+螂	liang
+螃	bang
+螃	pang
+螈	yuan
+融	rong
+螟	ming
+螨	man
+螬	cao
+螯	ao
+螳	tang
+螺	luo
+螽	zhong
+蟀	shuai
+蟀	shuo
+蟆	ma
+蟆	mo
+蟋	xi
+蟑	zhang
+蟒	mang
+蟠	pan
+蟥	huang
+蟹	xie
+蟾	chan
+蠓	meng
+蠕	ru
+蠕	ruan
+蠖	huo
+蠖	wo
+蠢	chun
+蠹	du
+血	xie	5.91%
+血	xue	94.09%
+衅	xin
+行	hang	8.22%
+行	xing	91.78%
+衍	yan
+衔	xian
+街	jie
+衙	ya	100%
+衙	yu	0%
+衡	heng
+衢	qu
+衣	yi
+补	bu
+表	biao
+衩	cha
+衫	shan
+衬	chen
+衰	cui	0.59%
+衰	shuai	99.41%
+衷	zhong
+袁	yuan
+袂	jue	0%
+袂	mei	100%
+袄	ao
+袅	niao
+袈	jia
+袋	dai
+袍	pao
+袒	tan
+袖	xiu
+袜	mo
+袜	wa
+袤	mao
+袤	mou
+被	bei	100%
+被	pi	0%
+袭	xi
+袱	fu
+袼	ge
+袼	luo
+裁	cai
+裂	lie
+装	zhuang
+裆	dang
+裔	yi
+裕	yu
+裘	qiu
+裙	jun	0%
+裙	qun	100%
+裟	sha
+裢	lian
+裤	ku
+裨	bei
+裨	bi	50%
+裨	pi	50%
+裱	biao
+裳	chang	5.42%
+裳	shang	94.58%
+裸	luo
+裹	guo
+褂	gua
+褐	ge	0%
+褐	he	100%
+褒	bao
+褓	bao
+褙	bei
+褛	lv
+褡	da
+褥	ru
+褪	tui	98.05%
+褪	tun	1.95%
+褫	chi
+褫	di
+褴	lan
+褶	die	0%
+褶	xi	0%
+褶	zhe	100%
+襁	qiang
+襄	xiang
+襟	jin
+西	xi
+要	yao
+覃	qin	80%
+覃	tan	10%
+覃	yan	10%
+覆	fu
+见	jian	99.05%
+见	xian	0.95%
+观	guan
+规	gui
+觅	mi
+视	shi
+览	lan
+觉	jiao	21.83%
+觉	jue	78.17%
+觊	ji
+觎	yu
+觐	jin
+觑	qu
+角	jiao	80.82%
+角	jue	19.18%
+角	lu	0%
+觞	shang
+解	jie	99.68%
+解	xie	0.32%
+觥	gong
+触	chu	0%
+触	hong	100%
+言	yan	100%
+言	yin	0%
+訇	hong
+詹	zhan
+誉	yu
+誊	teng
+誓	shi
+警	jing
+譬	pi
+计	ji
+订	ding
+讣	fu
+认	ren
+讥	ji
+讧	hong
+讨	tao
+让	rang
+讪	shan
+讫	qi
+训	xun
+议	yi
+讯	xun
+记	ji
+讲	jiang
+讳	hui
+讴	ou
+讶	ya
+讷	ne
+许	xu	99.29%
+讹	e
+论	lun
+讼	song
+讽	feng
+设	she
+访	fang
+诀	jue
+证	zheng
+诂	gu
+评	ping
+诅	zu
+识	shi	99.94%
+识	zhi	0.06%
+诈	zha
+诉	su
+诊	zhen
+诋	di
+诌	zhou
+词	ci
+诏	zhao
+译	yi
+诓	kuang
+试	shi
+诗	shi
+诘	jie	92.45%
+诙	hui
+诚	cheng
+诛	zhu
+话	hua
+诞	dan
+诟	gou
+诠	quan
+诡	gui
+询	xun
+诣	yi
+诤	zheng
+该	gai
+详	xiang
+诧	cha
+诨	hun
+诩	xu
+诫	jie
+诬	wu
+语	yu
+诮	qiao
+误	wu
+诱	you
+诲	hui
+诳	kuang
+说	shui	0.06%
+说	shuo	99.87%
+诵	song
+请	qing
+诸	zhu
+诺	nuo
+读	dou	0.01%
+读	du	99.99%
+诽	fei
+课	ke
+诿	wei
+谀	yu
+谁	shei	22.31%
+谁	shui	77.69%
+调	diao	30.33%
+调	tiao	69.67%
+谄	chan
+谅	liang
+谆	zhun
+谈	tan
+谊	yi
+谋	mou
+谍	die
+谎	huang
+谏	jian
+谐	xie
+谑	xue
+谒	ye
+谓	wei
+谕	yu
+谗	chan
+谙	an
+谚	yan
+谛	di
+谜	mi
+谢	xie
+谣	yao
+谤	bang
+谥	shi
+谦	qian
+谧	mi
+谨	jin
+谩	man
+谪	zhe
+谬	miu
+谭	tan
+谰	lan
+谱	pu
+谲	jue
+谴	qian
+谵	zhan
+谶	chen
+谷	gu	99.93%
+谷	yu	0.07%
+豁	he	0%
+豁	hua	0%
+豁	huo	100%
+豆	dou
+豇	gang
+豇	jiang
+豉	chi
+豉	shi
+豌	wan
+豕	shi
+豚	tun
+象	xiang
+豢	huan
+豢	quan
+豪	hao
+豫	yu
+豹	bao
+豺	chai
+貂	diao
+貉	hao	46.15%
+貉	he	53.85%
+貉	luo	0%
+貉	mo	0%
+貌	mao
+贝	bei
+贞	zhen
+负	fu
+贡	gong
+财	cai
+责	ze
+贤	xian
+败	bai
+账	zhang
+货	huo
+质	zhi
+贩	fan
+贪	tan
+贫	pin
+贬	bian
+购	gou
+贮	zhu
+贯	guan
+贰	er
+贱	jian
+贲	ben	94.83%
+贲	bi	5.17%
+贴	tie
+贵	gui
+贷	dai
+贸	mao
+费	fei
+贺	he
+贻	yi
+贼	zei
+贾	gu	0.27%
+贾	jia	99.73%
+贿	hui
+赁	lin
+赂	lu
+赃	zang
+资	zi
+赅	gai
+赈	zhen
+赊	she
+赋	fu
+赌	du
+赎	shu
+赏	shang
+赐	ci
+赔	pei
+赖	lai
+赘	zhui
+赚	zhuan	94.68%
+赚	zuan	5.32%
+赛	sai
+赝	yan
+赞	zan
+赠	zeng
+赡	shan
+赢	ying
+赣	gan
+赤	chi
+赦	she
+赧	nan
+赫	chi	0%
+赫	he	100%
+赭	zhe
+走	zou
+赳	jiu
+赴	fu
+赵	zhao
+赶	gan
+赶	qian
+起	qi
+趁	chen
+趄	ju
+趄	qie
+超	chao
+越	yue
+趋	cu
+趋	qu
+趑	zi
+趔	lie
+趟	tang
+趣	cu	0%
+趣	qu	100%
+足	ju	0%
+足	zu	100%
+趴	pa
+趸	dun
+趾	zhi
+趿	sa
+趿	ta
+跃	yue
+跄	qiang
+跆	tai
+跋	ba
+跌	die
+跎	tuo
+跑	pao
+跚	shan
+跛	bi
+跛	bo
+距	ju
+跟	gen
+跤	jiao
+跨	kua
+跪	gui
+路	lu
+跳	tiao
+践	jian
+跷	qiao
+跹	xian
+跺	duo
+跻	ji
+踉	lang
+踉	liang
+踊	yong
+踌	chou
+踏	ta
+踝	guo	0%
+踝	hua	0%
+踝	huai	100%
+踞	ju
+踟	chi
+踢	ti
+踩	cai
+踪	zong
+踮	dian
+踯	zhi
+踱	du	0%
+踱	duo	100%
+踵	zhong
+踹	chuai	100%
+踹	chuan	0%
+踹	shuan	0%
+踽	ju
+踽	yu
+蹀	die
+蹁	pian
+蹂	rou
+蹄	ti
+蹈	dao
+蹉	cuo
+蹊	qi	56.25%
+蹊	xi	43.75%
+蹋	ta
+蹑	nie
+蹑	she
+蹒	pan
+蹙	cu
+蹦	beng
+蹩	bie
+蹬	deng
+蹭	ceng
+蹰	chu
+蹲	cun	0.15%
+蹲	dun	99.85%
+蹴	cu
+蹶	jue
+蹼	pu
+蹿	cuan
+躁	zao
+躅	zhu
+躇	chu
+躏	lin
+躞	xie
+身	juan	0%
+身	shen	100%
+躬	gong
+躯	qu
+躲	duo
+躺	tang
+车	che	99.99%
+车	ju	0.01%
+轧	ga	22.32%
+轧	ya	27.90%
+轧	zha	49.79%
+轨	gui
+轩	xuan
+轫	ren
+转	zhuan
+轮	lun
+软	ruan
+轰	hong
+轱	gu
+轳	lu
+轴	zhou
+轶	yi
+轻	qing
+载	zai
+轿	jiao
+较	jiao
+辄	zhe
+辅	fu
+辆	liang
+辈	bei
+辉	hui
+辊	gun
+辍	chuo
+辎	zi
+辐	fu
+辑	ji
+输	shu
+辔	pei
+辕	yuan
+辖	xia
+辗	zhan	56.52%
+辘	lu
+辙	che
+辙	zhe
+辚	lin
+辛	xin
+辜	gu
+辞	ci
+辟	bi	50%
+辟	pi	50%
+辣	la
+辨	bian
+辩	bian
+辫	bian
+辰	chen
+辱	ru
+边	bian
+辽	liao
+达	da
+达	ta
+达	ti
+迁	qian
+迂	yu
+迄	qi
+迅	xun
+过	guo
+迈	mai
+迎	ying
+运	yun
+近	jin
+迓	ya
+返	fan
+还	hai	98.01%
+还	huan	1.99%
+还	xuan	0%
+这	zhe	98.59%
+这	zhei	1.41%
+进	jin
+远	yuan
+违	wei
+连	lian
+迟	chi
+迢	tiao
+迢	zhao
+迤	yi
+迥	jiong
+迦	jia
+迩	er
+迪	di
+迫	pai	1%
+迫	po	99%
+迭	die
+述	shu
+迷	mi
+迸	beng	100%
+迸	bing	0%
+迹	ji
+追	dui	0%
+追	zhui	100%
+退	tui
+送	song
+适	gua
+适	kuo
+适	shi	0%
+逃	tao
+逅	gou
+逅	hou
+逆	ni
+选	xuan
+逊	xun
+逍	xiao
+透	tou
+逐	zhu
+递	di
+途	tu
+逗	dou
+通	tong
+逛	guang
+逝	shi
+逞	cheng
+速	su
+造	cao	0%
+造	zao	100%
+逡	jun
+逡	qun
+逢	feng	100%
+逢	peng	0%
+逦	li
+逮	dai	100%
+逮	di	0%
+逶	wei
+逸	yi
+逻	luo
+逼	bi
+逾	yu
+遁	dun
+遂	sui
+遇	yu
+遍	bian	100%
+遍	pian	0%
+遏	e
+遐	xia
+遑	huang
+遒	qiu
+遒	you
+道	dao
+遗	yi	98.44%
+遛	liu
+遢	ta
+遣	qian
+遥	yao
+遨	ao
+遭	zao
+遮	zhe
+遴	lin
+遵	zun
+遽	ju
+避	bei	0%
+避	bi	100%
+邀	yao
+邂	xie
+邃	sui
+邈	miao
+邋	la
+邋	lie
+邑	yi
+邓	deng
+邓	shan
+邢	xing
+那	na	99.69%
+那	ne	0%
+那	nei	0.31%
+那	nuo	0%
+邦	bang
+邪	xia	0%
+邪	xie	99.28%
+邪	xu	0%
+邪	ye	0.72%
+邪	yu	0%
+邮	di
+邮	you	0%
+邯	han
+邵	shao
+邸	di
+邻	lin
+郁	yu
+郊	jiao
+郎	lang
+郑	zheng
+部	bu
+郭	guo
+郸	dan
+都	dou	94.64%
+都	du	5.36%
+鄂	e
+鄙	bi
+酉	you
+酊	ding
+酋	qiu
+酋	you
+酌	zhuo
+配	pei
+酒	jiu
+酗	xiong
+酗	xu
+酝	yun
+酢	cu	22.22%
+酢	zha	0%
+酢	zuo	77.78%
+酣	gan
+酣	han
+酥	su
+酩	ming
+酪	lao
+酪	luo
+酬	chou
+酱	jiang
+酵	jiao
+酵	xiao
+酶	mei
+酷	ku
+酸	suan
+酽	yan
+酿	niang
+醇	chun
+醉	zui
+醋	cu	100%
+醋	zuo	0%
+醍	shi
+醍	ti
+醐	hu
+醒	xing
+醚	mi
+醪	lao
+醪	liao
+醭	bu
+醭	pu
+醺	xun
+采	cai
+釉	you
+释	shi
+里	li
+重	chong	41.55%
+重	zhong	58.45%
+野	ye
+量	liang
+金	jin
+釜	fu
+鉴	jian
+銮	luan
+鎏	liu
+鏊	ao
+鏖	ao
+针	zhen
+钉	ding
+钎	qian
+钓	diao
+钗	chai
+钙	gai
+钛	tai
+钝	dun
+钞	chao
+钟	zhong
+钠	na
+钡	bei
+钢	gang
+钥	yao	91.40%
+钥	yue	8.60%
+钦	qin
+钧	jun
+钨	wu
+钩	gou
+钮	niu
+钱	qian
+钳	qian
+钵	bo
+钹	bo
+钻	zuan
+钾	jia
+铀	you
+铁	tie
+铃	ling
+铄	shuo
+铅	qian	99.33%
+铆	mao
+铐	kao
+铙	nao
+铛	cheng	1.90%
+铛	dang	98.10%
+铜	tong
+铝	lv
+铠	kai
+铡	zha
+铢	zhu
+铣	xi	77.92%
+铣	xian	22.09%
+铤	ding
+铤	ting
+铧	hua
+铬	ge
+铭	ming
+铮	zheng
+铰	jiao
+铱	yi
+铲	chan
+铳	chong
+银	yin
+铸	zhu
+铺	pu
+链	lian
+铿	keng
+销	xiao
+锁	suo
+锃	zeng
+锄	chu
+锅	guo
+锈	xiu
+锉	cuo
+锋	feng
+锌	xin
+锏	jian
+锐	rui
+锑	ti
+锒	lang
+锔	ju
+错	cuo
+锚	mao
+锛	ben
+锡	xi
+锢	gu
+锣	luo
+锤	chui
+锥	zhui
+锦	jin
+锨	xian
+锭	ding
+键	jian
+锯	ju
+锰	meng
+锱	zi
+锲	qie
+锵	qiang
+锹	qiao
+锻	duan
+镀	du
+镁	mei
+镂	lou
+镇	zhen
+镊	nie
+镌	juan
+镍	nie
+镏	liu
+镐	gao	69.31%
+镐	hao	30.69%
+镑	bang
+镖	biao
+镜	jing
+镞	zu
+镢	jue
+镣	liao
+镪	qiang
+镫	deng
+镭	lei
+镯	zhuo
+镰	lian
+镳	biao
+镶	xiang
+长	chang	60.26%
+长	zhang	39.74%
+门	men
+闩	shuan
+闪	shan
+闭	bi
+问	wen
+闯	chuang
+闰	run
+闲	xian
+间	jian
+闷	men
+闸	zha
+闹	nao
+闺	gui
+闻	wen
+闽	min
+闾	lv
+阀	fa
+阁	ge
+阂	he	96.55%
+阄	jiu
+阅	yue
+阉	yan
+阋	xi
+阎	yan
+阐	chan
+阑	lan
+阔	kuo
+阖	he
+阙	que
+阜	bu
+阜	fu
+队	dui
+阡	qian
+阱	jing
+防	fang
+阳	yang
+阴	an
+阴	yin
+阵	zhen
+阶	jie
+阻	zu
+阿	a	99.89%
+阿	e	0.11%
+陀	tuo
+附	fu
+际	ji
+陆	liu	6.25%
+陆	lu	93.75%
+陇	long
+陈	chen
+陋	lou
+陌	bai	0%
+陌	mo	100%
+降	jiang	99.06%
+降	xiang	0.94%
+限	xian
+陕	shan
+陕	xia
+陛	bi
+陡	dou	100%
+陡	tu	0%
+院	yuan
+除	chu
+陨	yun
+险	xian
+陪	pei
+陲	chui
+陵	ling
+陶	tao	99.94%
+陶	yao	0.06%
+陷	xian
+隅	ou
+隅	yu
+隆	long
+隋	sui
+隍	huang
+随	sui
+隐	yin
+隔	ge	100%
+隔	jie	0%
+隘	ai
+隘	e
+隘	ga	0%
+隙	qi	0%
+隙	xi
+障	zhang
+隧	sui
+隶	dai
+隶	li	0%
+隼	sun	100%
+隼	zhun	0%
+隽	juan	33.73%
+隽	jun	66.27%
+难	nan
+雀	qiao	0.21%
+雀	que	99.79%
+雁	yan
+雄	xiong
+雅	ya
+集	ji
+雇	gu
+雉	zhi
+雌	ci
+雍	yong
+雎	ju
+雎	sui
+雏	chu
+雕	diao
+雨	yu
+雪	xue
+雳	li
+零	lian	0%
+零	ling	100%
+雷	lei
+雹	bao
+雹	bo
+雾	wu
+需	nuo	0%
+需	ru	0%
+需	ruan	0%
+需	xu	100%
+霄	xiao
+霆	ting
+震	zhen
+霉	mei
+霍	huo
+霎	sha
+霏	fei
+霓	ni
+霖	lin
+霜	shuang
+霞	xia
+霭	ai
+露	lou	34.39%
+露	lu	65.61%
+霸	ba
+霹	pi
+霾	li	0%
+霾	mai	100%
+青	jing	0%
+青	qing	100%
+靓	jing	0.85%
+靓	liang	99.15%
+静	jing
+靛	dian
+靛	ding
+非	fei
+靠	kao
+靡	mi
+面	mian
+靥	ye
+革	ge	98.54%
+革	ji	1.46%
+靴	xue
+靶	ba
+靼	da
+靼	dan
+鞋	hai	0%
+鞋	xie	100%
+鞍	an
+鞑	da
+鞘	qiao
+鞠	ju
+鞣	rou
+鞭	bian
+韦	wei
+韧	ren
+韩	han
+韬	tao
+韭	jiu
+音	yin
+韵	yun
+韶	shao
+页	ye
+顶	ding
+顷	qing
+顸	han
+项	xiang
+顺	shun
+须	xu
+顽	wan
+顾	gu
+顿	dun	98.64%
+颀	qi
+颁	ban
+颂	song
+预	yu
+颅	lu
+领	ling
+颇	po
+颈	jing	97.34%
+颊	jia
+颌	he	91.01%
+颏	ke
+颐	yi
+频	pin
+颓	tui
+颔	han
+颖	ying
+颗	ke
+题	ti
+颚	e
+颜	yan
+额	e
+颟	man
+颠	dian
+颤	chan	90.89%
+颦	pin
+颧	quan
+风	feng
+飒	sa
+飓	ju
+飕	sou
+飘	piao
+飙	biao
+飞	fei
+食	shi	96.65%
+食	si	3.35%
+食	yi	0%
+餐	can
+饥	ji
+饨	tun
+饪	ren
+饬	chi
+饭	fan
+饮	yin
+饯	jian
+饰	shi
+饱	bao
+饲	si
+饴	yi
+饵	er
+饶	rao
+饷	xiang
+饺	jiao
+饼	bing
+饽	bo
+饿	e
+馁	nei
+馄	hun
+馅	xian
+馆	guan
+馈	kui
+馊	sou
+馋	chan
+馍	mo
+馏	liu
+馐	xiu
+馑	jin
+馒	man
+馓	san
+馕	nang
+首	shou
+馗	kui
+香	xiang
+馥	fu
+馨	xin
+馨	xing
+马	ma
+驭	yu
+驮	duo	3.27%
+驮	tuo	96.73%
+驯	xun
+驰	chi
+驱	qu
+驳	bo
+驴	lv
+驶	shi
+驸	fu
+驹	ju
+驻	zhu
+驼	tuo
+驽	nu
+驾	jia
+驿	yi
+骁	xiao
+骂	ma
+骄	jiao
+骆	luo
+骇	hai
+骈	pian
+骋	cheng
+验	yan
+骏	jun
+骑	qi	99.18%
+骒	ke
+骗	pian
+骚	sao
+骛	wu
+骜	ao
+骟	shan
+骡	luo
+骤	zhou
+骥	ji
+骨	gu
+骰	gu
+骰	shai
+骰	tou
+骶	di
+骷	ku
+骸	hai
+骼	ge
+髅	lou
+髋	kuan
+髌	bin
+髑	du
+髓	sui
+高	gao
+髦	mao
+髫	tiao
+髫	zhao
+髻	ji
+鬃	zong
+鬓	bin
+鬣	lie
+鬻	yu
+鬻	zhu
+鬼	gui
+魁	kui
+魂	hun
+魄	po	100%
+魄	tuo	0%
+魅	mei
+魇	yan
+魈	xiao
+魉	liang
+魍	wang
+魏	wei
+魑	chi
+魑	li
+魔	mo
+鱼	yu
+鱿	you
+鲁	lu
+鲅	ba
+鲅	bo
+鲇	nian
+鲈	lu
+鲋	fu
+鲍	bao
+鲑	gui
+鲜	xian
+鲟	xun
+鲠	geng
+鲡	li
+鲢	lian
+鲤	li
+鲥	shi
+鲨	sha
+鲫	ji
+鲮	ling
+鲱	fei
+鲲	kun
+鲳	chang
+鲵	ni
+鲸	jing
+鳃	sai
+鳄	e
+鳅	qiu
+鳇	huang
+鳊	bian
+鳌	ao
+鳍	qi
+鳏	guan
+鳔	biao
+鳖	bie
+鳗	man
+鳜	gui
+鳝	shan
+鳞	lin
+鳟	zun
+鸟	niao	99.86%
+鸠	jiu
+鸡	ji
+鸢	yuan
+鸣	ming
+鸥	ou
+鸦	ya
+鸨	bao
+鸩	zhen
+鸪	gu
+鸬	lu
+鸭	ya
+鸯	yang
+鸳	yuan
+鸵	tuo
+鸶	si
+鸷	zhi
+鸸	er
+鸹	gua
+鸽	ge
+鸿	hong
+鹁	bo
+鹃	juan
+鹄	gu	50%
+鹄	hu	50%
+鹅	e
+鹈	ti
+鹉	wu
+鹊	que
+鹋	miao
+鹌	an
+鹏	peng
+鹑	chun
+鹕	hu
+鹚	ci
+鹜	wu
+鹞	yao
+鹤	he
+鹦	ying
+鹧	zhe
+鹫	jiu
+鹬	yu
+鹭	lu
+鹰	ying
+鹳	guan
+鹿	lu
+麂	ji
+麋	mi
+麒	qi
+麓	lu
+麝	she
+麟	lin
+麦	mai	100%
+麦	mo	0%
+麸	fu
+麻	ma
+麾	hao
+麾	hui
+麾	mao
+黄	huang
+黍	shu
+黎	li
+黏	nian
+黑	he	0%
+黑	hei	100%
+黔	qian	100%
+黔	qin	0%
+默	mo
+黛	dai
+黜	chu
+黜	zhuo
+黝	you
+黠	xia
+黢	qu
+黧	li
+黩	du
+黯	an
+鼎	ding
+鼓	gu
+鼠	shu
+鼬	you
+鼯	wu
+鼹	yan
+鼻	bi
+鼾	han
+齐	ji	0%
+齐	qi	100%
+齐	zhai	0%
+齐	zi	0%
+齑	ji
+齿	chi
+龃	ju
+龄	ling
+龅	bao
+龇	zi
+龈	ken	11.11%
+龈	yin	88.89%
+龉	yu
+龊	chuo
+龋	qu
+龌	wo
+龙	long
+龚	gong
+龛	kan
+龟	gui	99.25%
